@@ -53,14 +53,14 @@ News
 <p style="font-size:16px"> <strong>[2022.03]</strong> One co-authored paper on deep knowledge tracing accepted by Scientific Report.</p>
 
 Selected Publications
-------
+======
 1. **CLGT: A Graph Transformer for Student Performance Prediction in Collaborative Learning** <br>**Tianhao Peng**, Yu Liang, Wenjun Wu, Jian Ren, Zhao Pengrui, Yanjun Pu <br><a href="https://aaai-23.aaai.org/">AAAI Symposium 2023</a> $\vert$ <a href="https://ojs.aaai.org/index.php/AAAI/article/download/26893/26665">pdf</a> $\vert$<a href="https://github.com/Tianhao-Peng/CLGT">
 Project page</a>
 2. **HELP-DKT: An Interpretable Cognitive Model of How Students Learn Programming Based on Deep Knowledge Tracing** <br>Yu Liang, <strong>Tianhao Peng</strong>, Yanjun Pu, Wenjun Wu <br><a href="https://www.nature.com/srep">Scientific Report (IF=4.379)</a> $\vert$ <a href="https://www.nature.com/articles/s41598-022-07956-0">pdf</a> $\vert$ <a href="https://github.com/liangyubuaa/HELP-DKT">Project page</a>
 3. **Embedding cognitive framework with self-attention for interpretable knowledge tracing** <br>Yanjun Pu, Wenjun Wu, <strong>Tianhao Peng</strong>, Fang Liu, Yu Liang, Xin Yu, Ruibo Chen, Pu Feng <br><a href="https://www.nature.com/srep">Scientific Report (IF=4.379)</a> $\vert$ <a href="https://www.nature.com/articles/s41598-022-22539-9">pdf</a>
 
 Research achievements
-------
+======
 <ul>
 <li><strong>[China national standard]</strong> I am one of the drafters of the China national standard <a href="https://std.samr.gov.cn/gb/search/gbDetailed?id=91B707B3BE89F2B6E05397BE0A0AB1F8">"Information technology- Artificial intelligence- Code of practice for data annotation of machine learning"</a>.</li>
 <li><strong>[China group standard]</strong> I am one of the drafters of the China group standard <a href="http://www.ttbz.org.cn/StandardManage/Detail/52125/">"Framework for intelligent microservices adaptation"</a>.</li>
@@ -69,7 +69,7 @@ Research achievements
 </ul>
 
 Projects
-------
+======
   <li><strong>[Science and Technology Innovation 2030—“New Generation Artificial Intelligence” Major Project]</strong> I participated in the "Research on crowd intelligence inspired convergence for crowd behavior" project.
       Mainly responsible for the related research of "the mechanism and methods of graph algorithms".
       <ol>
@@ -105,7 +105,7 @@ Projects
 </li>
 
 Education
-------
+======
 <li><strong>PhD student, School of Computer Science and Engineering, Beihang University.</strong> <a href="https://www.buaa.edu.cn">Beihang University</a>, 2021.09 - present</li>
 <ul>
     <li>Main Courses: Machine Learning, Data Mining and its Application, Artificial Intelligent: Theory and Application.
@@ -124,13 +124,13 @@ Education
 </ul>
 
 Services
-------
+======
 <ul>
     <li>Journal Reviewers of <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69">IEEE TKDE</a></li>
 </ul>
 
 Competitions and awards
-------
+======
 <ul>
     <li>First Class Scholarship for Graduate Freshmen (2020) in Beihang University</li>
     <li>School-level Outstanding Graduates (2020) in Beihang University</li>
@@ -140,7 +140,7 @@ Competitions and awards
 </ul>
 
 Activities
-------
+======
 <ol>
     <li><strong>Teaching Assistant, Beihang University, 2020.09 - 2021.01</strong>
         <ul>
