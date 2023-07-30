@@ -58,11 +58,29 @@ News
 
 Selected Publications
 ------
-1. **CLGT: A Graph Transformer for Student Performance Prediction in Collaborative Learning**
+
+
+<tr>
+    <td width="20%"><img src="photos\CLGT.pdf" alt="USENIX2023" width="180" height="110" style="border-style: none"></td>
+    <td width="80%" valign="top">
+        <p>
+            <a href="https://arxiv.org/submit/4771189/view">
+                <papertitle>CLGT: A Graph Transformer for Student Performance Prediction in Collaborative Learning</papertitle>
+            </a>
+            <br><strong>Tianhao Peng</strong>, Yu Liang, Wenjun Wu, Jian Ren, Zhao Pengrui, Yanjun Pu. <br><br> Accepted by </em><a href="https://aaai-23.aaai.org/">AAAI Symposium</a></em>, 2023
+            <br>
+            <a href="https://arxiv.org/submit/4771189/view">pdf</a> /
+            <a href="https://github.com/Tianhao-Peng/CLGT">
+                <font color="red">Project page</font>
+            </a>
+            <p align="justify" style="font-size:13px"> We present an extended graph transformer framework for collaborative learning (CLGT) for evaluating and predicting the performance of students. </p>
+            <p></p>
+    </td>
+<!-- 1. **CLGT: A Graph Transformer for Student Performance Prediction in Collaborative Learning**
 
 <strong>Tianhao Peng</strong>, Yu Liang, Wenjun Wu, Jian Ren, Zhao Pengrui, Yanjun Pu. <br><br> 
 
-Accepted by <a href="https://aaai-23.aaai.org/">AAAI Symposium</a>, 2023 ｜ <a href="https://ojs.aaai.org/index.php/AAAI/article/download/26893/26665">paper</a>
+Accepted by <a href="https://aaai-23.aaai.org/">AAAI Symposium</a>, 2023 ｜ <a href="https://ojs.aaai.org/index.php/AAAI/article/download/26893/26665">paper</a> -->
 
 Create content & metadata
 ------
