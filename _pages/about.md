@@ -77,7 +77,7 @@ Projects
   <li><strong>[Science and Technology Innovation 2030—“New Generation Artificial Intelligence” Major Project]</strong> I participated in the "Research on crowd intelligence inspired convergence for crowd behavior" project.
       Mainly responsible for the related research of "the mechanism and methods of graph algorithms".
       <ol>
-          <li><strong>Research</strong> Participated in the research of "Graph Neural Networks in Heterogeneous Graphs" and published a paper. Submitted to SIGKDD 2023.</li>
+          <li><strong>Research</strong> Participated in the research of "Graph Neural Networks in Heterogeneous Graphs" and published a paper. Submitted to ICDE 2024.</li>
           <li><strong>Research</strong> Participated in the research of "Graph Transformer for Learning Behavior in Group Collaboration Environment", and published the paper
               <a href="https://arxiv.org/submit/4771189/view">
                   <papertitle>CLGT: A Graph Transformer for Student Performance Prediction in Collaborative Learning</papertitle>
