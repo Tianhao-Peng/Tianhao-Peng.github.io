@@ -61,7 +61,7 @@ Selected Publications
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
 <tbody>
 <tr>
-<td width="40%"><img src="photos\CLGT.pdf" alt="AAAI2023" width="180" height="110" style="border-style: none">
+<td width="40%"><img src="photos\CLGT.pdf" alt="AAAI2023" width="180" height="110" style="border-style: none"></td>
 <td width="60%" valign="top">
 [**CLGT: A Graph Transformer for Student Performance Prediction in Collaborative Learning**](https://arxiv.org/submit/4771189/view)  
 **Tianhao Peng**, Yu Liang, Wenjun Wu, Jian Ren, Zhao Pengrui, Yanjun Pu.  
