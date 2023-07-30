@@ -44,13 +44,12 @@ By advancing these research areas, I aim to contribute to the development of GNN
 News
 ======
 <!-- <p style="font-size:16px"> -->
-<strong>[2023.07]</strong> One first-authored paper on heterophilic graph neural networks submitted to ICDE 2024.
-
-<strong>[2023.02]</strong> One first-authored paper on graph transformer accepted by AAAI Symposium 2023.
-
-<strong>[2022.10]</strong> One co-authored paper on interpretable deep knowledge tracing accepted by Scientific Report.
-
-<strong>[2022.03]</strong> One co-authored paper on deep knowledge tracing accepted by Scientific Report.
+<ul>
+<li><strong>[2023.07]</strong> One first-authored paper on heterophilic graph neural networks submitted to ICDE 2024.</li>
+<li><strong>[2023.02]</strong> One first-authored paper on graph transformer accepted by AAAI Symposium 2023.</li>
+<li><strong>[2022.10]</strong> One co-authored paper on interpretable deep knowledge tracing accepted by Scientific Report.</li>
+<li><strong>[2022.03]</strong> One co-authored paper on deep knowledge tracing accepted by Scientific Report.</li>
+</ul>
 
 Publications
 ======
