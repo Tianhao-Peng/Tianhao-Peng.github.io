@@ -141,28 +141,3 @@ Competitions and awards
     <li>School-level Learning Excellent Awards (2017 - 2019) in Beihang University</li>
     <li>School-level Merit scholarship for Social work (2019) in Beihang University</li>
 </ul>
-
-Activities
-======
-<ol>
-    <li><strong>Teaching Assistant, Beihang University, 2020.09 - 2021.01</strong>
-        <ul>
-            <li>Guided freshmen in the subjects of "Advanced Mathematics and Programming C" and taught some learning skills</li>
-        </ul>
-    </li>
-    <li><strong>Teaching Assistant, Beihang University, 2021.02 - 2021.06</strong>
-        <ul>
-            <li>Guided post-graduate in the subjects of "Software Engineering"</li>
-        </ul>
-    </li>
-    <li><strong>Teaching Assistant, Beihang University, 2021.09 - 2021.01</strong>
-        <ul>
-            <li>Guided junior in the subjects of "Reinforcement Learning and its Application" and taught some learning and practical skills</li>
-        </ul>
-    </li>
-    <li><strong>Teaching Assistant, Beihang University, 2022.02 - 2021.04</strong>
-        <ul>
-            <li>Guided post-graduate in the subjects of "Scientific Writing and Reporting" and taught some writing skills</li>
-        </ul>
-    </li>
-</ol>
