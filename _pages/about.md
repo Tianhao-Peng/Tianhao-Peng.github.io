@@ -58,11 +58,9 @@ News
 
 Selected Publications
 ------
-1. **CLGT: A Graph Transformer for Student Performance Prediction in Collaborative Learning** <br>**Tianhao Peng**, Yu Liang, Wenjun Wu, Jian Ren, Zhao Pengrui, Yanjun Pu <br><a href="https://aaai-23.aaai.org/">AAAI Symposium 2023</a> | <a href="https://ojs.aaai.org/index.php/AAAI/article/download/26893/26665">pdf</a> |
-<a href="https://github.com/Tianhao-Peng/CLGT">
+1. **CLGT: A Graph Transformer for Student Performance Prediction in Collaborative Learning** <br>**Tianhao Peng**, Yu Liang, Wenjun Wu, Jian Ren, Zhao Pengrui, Yanjun Pu <br><a href="https://aaai-23.aaai.org/">AAAI Symposium 2023</a> | <a href="https://ojs.aaai.org/index.php/AAAI/article/download/26893/26665">pdf</a> |<a href="https://github.com/Tianhao-Peng/CLGT">
 Project page</a>
-2. **HELP-DKT: An Interpretable Cognitive Model of How Students Learn Programming Based on Deep Knowledge Tracing** <br>Yu Liang, <strong>Tianhao Peng</strong>, Yanjun Pu, Wenjun Wu <br><a href="https://www.nature.com/srep">Scientific Report (IF=4.379)</a> | <a href="https://www.nature.com/articles/s41598-022-07956-0">pdf</a>
-<a href="https://github.com/liangyubuaa/HELP-DKT">Project page</a>
+2. **HELP-DKT: An Interpretable Cognitive Model of How Students Learn Programming Based on Deep Knowledge Tracing** <br>Yu Liang, <strong>Tianhao Peng</strong>, Yanjun Pu, Wenjun Wu <br><a href="https://www.nature.com/srep">Scientific Report (IF=4.379)</a> | <a href="https://www.nature.com/articles/s41598-022-07956-0">pdf</a> | <a href="https://github.com/liangyubuaa/HELP-DKT">Project page</a>
 3. **Embedding cognitive framework with self-attention for interpretable knowledge tracing** <br>Yanjun Pu, Wenjun Wu, <strong>Tianhao Peng</strong>, Fang Liu, Yu Liang, Xin Yu, Ruibo Chen, Pu Feng <br><a href="https://www.nature.com/srep">Scientific Report (IF=4.379)</a> | <a href="https://www.nature.com/articles/s41598-022-22539-9">pdf</a>
 
 Research achievements
