@@ -13,6 +13,8 @@ I am a Ph.D. student (2021.09 - present) at the State Key Laboratory of Software
 from
 <a href="https://www.buaa.edu.cn/">Beihang University</a> (<i>Awarded Outstanding Graduate & Honor Student</i>).
 
+**Email**: pengtianhao@buaa.edu.cn $\vert$ <a href="https://scholar.google.com/citations?user=jykL70MAAAAJ">Google Scholar</a> $\vert$ <a href="https://github.com/Tianhao-Peng"> Github </a>
+
 Research
 ======
 I am interested in <strong>Graph Neural Networks (GNNs)</strong> and their applications. My research goal is to develop GNN models that are general, efficient, and explainable.
