@@ -1,16 +1,18 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching experience 2"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/teaching
+type: "Workshop"
+permalink: /teaching/2015-spring-teaching-1
 venue: "University 1, Department"
-date: 2014-01-01
+date: 2015-01-01
 location: "City, Country"
 ---
 
+
 Teaching
 ======
-
+teaching test
+<!-- 
 <ol>
     <li><strong>Teaching Assistant, Beihang University, 2020.09 - 2021.01</strong>
         <ul>
@@ -32,4 +34,4 @@ Teaching
             <li>Guided post-graduate in the subjects of "Scientific Writing and Reporting" and taught some writing skills</li>
         </ul>
     </li>
-</ol>
+</ol> -->
