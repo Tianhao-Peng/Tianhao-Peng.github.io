@@ -44,26 +44,22 @@ By advancing these research areas, I aim to contribute to the development of GNN
 
 News
 ======
-<ol>
-<li><p style="font-size:16px"> <strong>[2023.07]</strong> One first-authored paper on heterophilic graph neural networks submitted to ICDE 2024.</p></li>
-
-<li><p style="font-size:16px"> <strong>[2023.02]</strong> One first-authored paper on graph transformer accepted by AAAI Symposium 2023.</p></li>
-
-<li><p style="font-size:16px"> <strong>[2022.10]</strong> One co-authored paper on interpretable deep knowledge tracing accepted by Scientific Report.</p></li>
-
+<p style="font-size:16px"> <strong>[2023.07]</strong> One first-authored paper on heterophilic graph neural networks submitted to ICDE 2024.</p>
+<p style="font-size:16px"> <strong>[2023.02]</strong> One first-authored paper on graph transformer accepted by AAAI Symposium 2023.</p>
+<p style="font-size:16px"> <strong>[2022.10]</strong> One co-authored paper on interpretable deep knowledge tracing accepted by Scientific Report.</p>
 <p style="font-size:16px"> <strong>[2022.03]</strong> One co-authored paper on deep knowledge tracing accepted by Scientific Report.</p>
-</ol>
+
 Selected Publications
 ======
-<!-- 1. **CLGT: A Graph Transformer for Student Performance Prediction in Collaborative Learning** <br>**Tianhao Peng**, Yu Liang, Wenjun Wu, Jian Ren, Zhao Pengrui, Yanjun Pu <br><a href="https://aaai-23.aaai.org/">AAAI Symposium 2023</a> $\vert$ <a href="files/CLGT_paper.pdf">pdf</a> $\vert$<a href="https://github.com/Tianhao-Peng/CLGT">Project page</a><br><div style="text-align: center;"><img src="photos/CLGT.pdf" width="400" height="400" style="display: block; margin: 0 auto;"></div><br>We present an extended graph transformer framework for collaborative learning (CLGT) for evaluating and predicting the performance of students.
-2. **HELP-DKT: An Interpretable Cognitive Model of How Students Learn Programming Based on Deep Knowledge Tracing** <br>Yu Liang, <strong>Tianhao Peng</strong>, Yanjun Pu, Wenjun Wu <br><a href="https://www.nature.com/srep">Scientific Report (IF=4.379)</a> $\vert$ <a href="files/HELP-DKT_paper.pdf">pdf</a> $\vert$ <a href="https://github.com/liangyubuaa/HELP-DKT">Project page</a><br><div style="text-align: center;"><img src="photos/HELP-DKT.pdf" width="400" height="400" style="display: block; margin: 0 auto;"></div><br>We present an interpretable cognitive model named HELP-DKT, which can infer how students learn programming based on deep knowledge tracing.
-3. **Embedding cognitive framework with self-attention for interpretable knowledge tracing** <br>Yanjun Pu, Wenjun Wu, <strong>Tianhao Peng</strong>, Fang Liu, Yu Liang, Xin Yu, Ruibo Chen, Pu Feng <br><a href="https://www.nature.com/srep">Scientific Report (IF=4.379)</a> $\vert$ <a href="files/EAKT_paper.pdf">pdf</a><br><div style="text-align: center;"><img src="photos/EAKT.pdf" width="400" height="400" style="display: block; margin: 0 auto;"></div><br>We present a new learner modeling framework named by EAKT that embeds a structured cognitive model into deep knowledge tracing. -->
+1. **CLGT: A Graph Transformer for Student Performance Prediction in Collaborative Learning** <br>**Tianhao Peng**, Yu Liang, Wenjun Wu, Jian Ren, Zhao Pengrui, Yanjun Pu <br><a href="https://aaai-23.aaai.org/">AAAI Symposium 2023</a> $\vert$ <a href="files/CLGT_paper.pdf">pdf</a> $\vert$<a href="https://github.com/Tianhao-Peng/CLGT">Project page</a>
+2. **HELP-DKT: An Interpretable Cognitive Model of How Students Learn Programming Based on Deep Knowledge Tracing** <br>Yu Liang, <strong>Tianhao Peng</strong>, Yanjun Pu, Wenjun Wu <br><a href="https://www.nature.com/srep">Scientific Report (IF=4.379)</a> $\vert$ <a href="files/HELP-DKT_paper.pdf">pdf</a> $\vert$ <a href="https://github.com/liangyubuaa/HELP-DKT">Project page</a>
+3. **Embedding cognitive framework with self-attention for interpretable knowledge tracing** <br>Yanjun Pu, Wenjun Wu, <strong>Tianhao Peng</strong>, Fang Liu, Yu Liang, Xin Yu, Ruibo Chen, Pu Feng <br><a href="https://www.nature.com/srep">Scientific Report (IF=4.379)</a> $\vert$ <a href="files/EAKT_paper.pdf">pdf</a>
 
-<ol>
+<!-- <ol>
     <li><strong>CLGT: A Graph Transformer for Student Performance Prediction in Collaborative Learning</strong><br><strong>Tianhao Peng</strong>, Yu Liang, Wenjun Wu, Jian Ren, Zhao Pengrui, Yanjun Pu <br><a href="https://aaai-23.aaai.org/">AAAI Symposium 2023</a> $\vert$ <a href="files/CLGT_paper.pdf">pdf</a> $\vert$<a href="https://github.com/Tianhao-Peng/CLGT">Project page</a><br><div style="text-align: center;"><img src="images/CLGT.pdf" width="400" height="400" style="display: block; margin: 0 auto;"></div><br>We present an extended graph transformer framework for collaborative learning (CLGT) for evaluating and predicting the performance of students.</li>
     <li><strong>HELP-DKT: An Interpretable Cognitive Model of How Students Learn Programming Based on Deep Knowledge Tracing</strong><br>Yu Liang, <strong>Tianhao Peng</strong>, Yanjun Pu, Wenjun Wu <br><a href="https://www.nature.com/srep">Scientific Report (IF=4.379)</a> $\vert$ <a href="files/HELP-DKT_paper.pdf">pdf</a> $\vert$ <a href="https://github.com/liangyubuaa/HELP-DKT">Project page</a><br><div style="text-align: center;"><img src="images/HELP-DKT.pdf" width="400" height="400" style="display: block; margin: 0 auto;"></div><br>We present an interpretable cognitive model named HELP-DKT, which can infer how students learn programming based on deep knowledge tracing.</li>
     <li><strong>Embedding cognitive framework with self-attention for interpretable knowledge tracing</strong><br>Yanjun Pu, Wenjun Wu, <strong>Tianhao Peng</strong>, Fang Liu, Yu Liang, Xin Yu, Ruibo Chen, Pu Feng <br><a href="https://www.nature.com/srep">Scientific Report (IF=4.379)</a> $\vert$ <a href="files/EAKT_paper.pdf">pdf</a><br><div style="text-align: center;"><img src="images/EAKT.pdf" width="400" height="400" style="display: block; margin: 0 auto;"></div><br>We present a new learner modeling framework named by EAKT that embeds a structured cognitive model into deep knowledge tracing.</li>
-</ol>
+</ol> -->
 
 
 Research achievements
