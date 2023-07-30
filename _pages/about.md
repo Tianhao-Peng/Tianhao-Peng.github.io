@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is pronounced as "tyen-how pung". I am a Ph.D. student (2021.09 - present) at the State Key Laboratory of Software Development Environment (SKLSDE) and <a href="https://scse.buaa.edu.cn/">School of Computer Science and Engineering (SCSE)</a>, Beihang University, Beijing, China, supervised by Prof. Wenjun Wu. Before that, I obtained my BSc degree in 2020 from <a href="https://www.buaa.edu.cn/">Beihang University</a> (<i>Awarded Outstanding Graduate & Honor Student</i>).
+My name is pronounced as "tyen-how pung". I am a Ph.D. student (2021.09 - present) at the State Key Laboratory of Software Development Environment (SKLSDE) and <a href="https://scse.buaa.edu.cn/">School of Computer Science and Engineering (SCSE)</a>, Beihang University, Beijing, China, supervised by <a href="https://www.researchgate.net/profile/Wenjun-Wu-15">Prof. Wenjun Wu</a>. Before that, I obtained my BSc degree in 2020 from <a href="https://www.buaa.edu.cn/">Beihang University</a> (<i>Awarded Outstanding Graduate & Honor Student</i>).
 
 **Email**: pengtianhao@buaa.edu.cn $\vert$ <a href="https://scholar.google.com/citations?user=jykL70MAAAAJ">Google Scholar</a> $\vert$ <a href="https://github.com/Tianhao-Peng"> Github </a>
 
