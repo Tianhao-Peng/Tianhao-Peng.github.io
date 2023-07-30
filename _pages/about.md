@@ -58,60 +58,49 @@ News
 
 Selected Publications
 ------
-
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
-    <tbody>
-        <tr>
-            <td width="20%"><img src="photos\CLGT.pdf" alt="USENIX2023" width="180" height="110" style="border-style: none"></td>
-            <td width="80%" valign="top">
-                <p>
-                    <a href="https://arxiv.org/submit/4771189/view">
-                        <papertitle>CLGT: A Graph Transformer for Student Performance Prediction in Collaborative Learning</papertitle>
-                    </a>
-                    <br><strong>Tianhao Peng</strong>, Yu Liang, Wenjun Wu, Jian Ren, Zhao Pengrui, Yanjun Pu. <br><br> Accepted by </em><a href="https://aaai-23.aaai.org/">AAAI Symposium</a></em>, 2023
-                    <br>
-                    <a href="https://arxiv.org/submit/4771189/view">pdf</a> /
-                    <a href="https://github.com/Tianhao-Peng/CLGT">
-                        <font color="red">Project page</font>
-                    </a>
-                    <p align="justify" style="font-size:13px"> We present an extended graph transformer framework for collaborative learning (CLGT) for evaluating and predicting the performance of students. </p>
-                    <p></p>
-            </td>
-        </tr>
-        <tr>
-            <td width="20%"><img src="photos\HELP-DKT.pdf" alt="USENIX2023" width="180" height="110" style="border-style: none"></td>
-            <td width="80%" valign="top">
-                <p>
-                    <a href="https://www.nature.com/articles/s41598-022-07956-0">
-                        <papertitle>HELP-DKT: An Interpretable Cognitive Model of How Students Learn Programming Based on Deep Knowledge Tracing</papertitle>
-                    </a>
-                    <br>Yu Liang, <strong>Tianhao Peng</strong>, Yanjun Pu, Wenjun Wu. <br><br> Accepted by </em><a href="https://www.nature.com/srep">Scientific Report</a></em>(IF=4.379)
-                    <br>
-                    <a href="https://www.nature.com/articles/s41598-022-07956-0">pdf</a> /
-                    <a href="https://github.com/liangyubuaa/HELP-DKT">
-                        <font color="red">Project page</font>
-                    </a>
-                    <p align="justify" style="font-size:13px"> We present an interpretable cognitive model named HELP-DKT, which can infer how students learn programming based on deep knowledge tracing. </p>
-                    <p></p>
-            </td>
-        </tr>
-        <tr>
-            <td width="20%"><img src="photos\EAKT.pdf" alt="USENIX2023" width="180" height="110" style="border-style: none"></td>
-            <td width="80%" valign="top">
-                <p>
-                    <a href="https://www.nature.com/articles/s41598-022-22539-9">
-                        <papertitle>Embedding cognitive framework with self-attention for interpretable knowledge tracing</papertitle>
-                    </a>
-                    <br>Yanjun Pu, Wenjun Wu, <strong>Tianhao Peng</strong>, Fang Liu, Yu Liang, Xin Yu, Ruibo Chen, Pu Feng. <br><br> Accepted by </em><a href="https://www.nature.com/srep">Scientific Report</a></em>(IF=4.379)
-                    <br>
-                    <a href="https://www.nature.com/articles/s41598-022-22539-9">pdf</a>
-                    <p align="justify" style="font-size:13px"> We present a new learner modeling framework named by EAKT that embeds a structured cognitive model into deep knowledge tracing. </p>
-                    <p></p>
-            </td>
-        </tr>
+  <tbody>
+    <tr>
+      <td width="40%"><img src="photos\CLGT.pdf" alt="AAAI2023" width="180" height="110" style="border-style: none"></td>
+      <td width="60%" valign="top">
+        [**CLGT: A Graph Transformer for Student Performance Prediction in Collaborative Learning**](https://arxiv.org/submit/4771189/view)  
+        **Tianhao Peng**, Yu Liang, Wenjun Wu, Jian Ren, Zhao Pengrui, Yanjun Pu.  
+        Accepted by [AAAI Symposium](https://aaai-23.aaai.org/), 2023
 
-    </tbody>
+        [pdf](https://ojs.aaai.org/index.php/AAAI/article/download/26893/26665) /
+        [Project page](https://github.com/Tianhao-Peng/CLGT)
+
+        We present an extended graph transformer framework for collaborative learning (CLGT) for evaluating and predicting the performance of students.
+  </td>
+    </tr>
+    <tr>
+      <td width="40%"><img src="photos\HELP-DKT.pdf" alt="Scientific Report" width="180" height="110" style="border-style: none"></td>
+      <td width="60%" valign="top">
+        [**HELP-DKT: An Interpretable Cognitive Model of How Students Learn Programming Based on Deep Knowledge Tracing**](https://www.nature.com/articles/s41598-022-07956-0)  
+        Yu Liang, **Tianhao Peng**, Yanjun Pu, Wenjun Wu.  
+        Accepted by [Scientific Report](https://www.nature.com/srep)(IF=4.379)
+
+        [pdf](https://www.nature.com/articles/s41598-022-07956-0) /
+        [Project page](https://github.com/liangyubuaa/HELP-DKT)
+
+        We present an interpretable cognitive model named HELP-DKT, which can infer how students learn programming based on deep knowledge tracing.
+  </td>
+    </tr>
+    <tr>
+      <td width="40%"><img src="photos\EAKT.pdf" alt="Scientific Report" width="180" height="110" style="border-style: none"></td>
+      <td width="60%" valign="top">
+        [**Embedding cognitive framework with self-attention for interpretable knowledge tracing**](https://www.nature.com/articles/s41598-022-22539-9)  
+        Yanjun Pu, Wenjun Wu, **Tianhao Peng**, Fang Liu, Yu Liang, Xin Yu, Ruibo Chen, Pu Feng.  
+        Accepted by [Scientific Report](https://www.nature.com/srep)(IF=4.379)
+
+        [pdf](https://www.nature.com/articles/s41598-022-22539-9)
+
+        We present a new learner modeling framework named EAKT that embeds a structured cognitive model into deep knowledge tracing.
+  </td>
+    </tr>
+  </tbody>
 </table>
+
 <!-- 1. **CLGT: A Graph Transformer for Student Performance Prediction in Collaborative Learning**
 
 <strong>Tianhao Peng</strong>, Yu Liang, Wenjun Wu, Jian Ren, Zhao Pengrui, Yanjun Pu. <br><br> 
