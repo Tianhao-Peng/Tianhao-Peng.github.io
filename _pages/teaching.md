@@ -1,3 +1,13 @@
+---
+title: "Teaching experience 1"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/teaching
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
+---
+
 Education
 ======
 <li><strong>PhD student, School of Computer Science and Engineering, Beihang University.</strong> <a href="https://www.buaa.edu.cn">Beihang University</a>, 2021.09 - present</li>
