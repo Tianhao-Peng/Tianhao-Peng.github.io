@@ -76,8 +76,8 @@ Projects
   <li><strong>[Science and Technology Innovation 2030—“New Generation Artificial Intelligence” Major Project]</strong> I participated in the "Research on crowd intelligence inspired convergence for crowd behavior" project.
       Mainly responsible for the related research of "the mechanism and methods of graph algorithms".
       <ol>
-          <li><strong>Research</strong> Participated in the research of "Graph Neural Networks in Heterogeneous Graphs" and published a paper. Submitted to ICDE 2024.</li>
-          <li><strong>Research</strong> Participated in the research of "Graph Transformer for Learning Behavior in Group Collaboration Environment", and published the paper
+          <li><strong>Research:</strong> Participated in the research of "Graph Neural Networks in Heterogeneous Graphs" and published a paper. Submitted to ICDE 2024.</li>
+          <li><strong>Research:</strong> Participated in the research of "Graph Transformer for Learning Behavior in Group Collaboration Environment", and published the paper
               <a href="https://arxiv.org/submit/4771189/view">
                   <papertitle>CLGT: A Graph Transformer for Student Performance Prediction in Collaborative Learning</papertitle>
               </a>. Accepted by AAAI Symposium 2023.</li>
@@ -86,12 +86,12 @@ Projects
   <li><strong>[National Natural Science Foundation of China]</strong> I participated in the "Research on the Mechanism and Methods of Large-scale Online Collaborative Learning" project. Mainly responsible for the related
       research of "knowledge tracing for modelling student knowledge over time".
       <ol>
-          <li><strong>Research</strong> Participated in the research of "Personalized Programming Behavior Analysis Based on deep learning". The undergraduate graduation design paper based on relevant research won the
+          <li><strong>Research:</strong> Participated in the research of "Personalized Programming Behavior Analysis Based on deep learning". The undergraduate graduation design paper based on relevant research won the
               award of "Excellent Graduation design Paper", and published the paper
               <a href="https://www.nature.com/articles/s41598-022-07956-0">
                   <papertitle>HELP-DKT: An Interpretable Cognitive Model of How Students Learn Programming Based on Deep Knowledge Tracing</papertitle>
               </a>. Accepted by Scientific Reports (impact factor: 4.379).</li>
-          <li><strong>Research</strong> Participated in the research of "Interpretable knowledge tracking model", and published the paper
+          <li><strong>Research:</strong> Participated in the research of "Interpretable knowledge tracking model", and published the paper
               <a href="https://www.nature.com/articles/s41598-022-22539-9">
                   <papertitle>Embedding cognitive framework with self-attention for interpretable knowledge tracing</papertitle>
               </a>. Accepted by Scientific Reports (impact factor: 4.379).</li>
@@ -106,25 +106,6 @@ Projects
           <li><strong>China patent</strong> Participated in the preparation and application of the patent <a href="https://www.patent9.com/patent/202210737640.5.html">"Code quality problem detection and repair method for continuous integration of microservices"</a>.</li>
       </ol>
 </li>
-
-Education
-======
-<li><strong>PhD student, School of Computer Science and Engineering, Beihang University.</strong> <a href="https://www.buaa.edu.cn">Beihang University</a>, 2021.09 - present</li>
-<ul>
-    <li>Main Courses: Machine Learning, Data Mining and its Application, Artificial Intelligent: Theory and Application.
-    </li>
-</ul>
-<li><strong>M.S., School of Computer Science and Engineering, Beihang University.</strong> <a href="https://www.buaa.edu.cn">Beihang University</a>, 2020.09 - 2021.07</li>
-<ul>
-    <li>Main Courses: Software Engineering, the Design and Analysis of Algorithm, Computing Theory, Probability Theory.
-    </li>
-</ul>
-<li><strong>B.S., School of Computer Science and Engineering, Beihang University.</strong> <a href="https://www.buaa.edu.cn">Beihang University</a>, 2016.09 - 2020.07</li>
-<ul>
-    <li>Main Courses: the Design and Analysis of Algorithm, C Programming, Computer Network, Computer Organization and System Architecture, Discrete Mathematics, Data Structure, Operating System, Database Principle
-        and Application, Object-oriented Programming(Java), Dig Data, Mathematical Analysis, Advanced Algebra, Discrete Mathematics.
-    </li>
-</ul>
 
 Services
 ======
