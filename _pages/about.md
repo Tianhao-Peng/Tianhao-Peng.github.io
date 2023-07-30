@@ -58,38 +58,12 @@ News
 
 Selected Publications
 ------
-1. **CLGT: A Graph Transformer for Student Performance Prediction in Collaborative Learning** 
-
-    **Tianhao Peng**, Yu Liang, Wenjun Wu, Jian Ren, Zhao Pengrui, Yanjun Pu. 
-
-    <a href="https://aaai-23.aaai.org/">AAAI Symposium</a>, 2023 | <a href="https://ojs.aaai.org/index.php/AAAI/article/download/26893/26665">pdf</a> |
+1. **CLGT: A Graph Transformer for Student Performance Prediction in Collaborative Learning** <br>**Tianhao Peng**, Yu Liang, Wenjun Wu, Jian Ren, Zhao Pengrui, Yanjun Pu <br><a href="https://aaai-23.aaai.org/">AAAI Symposium 2023</a> | <a href="https://ojs.aaai.org/index.php/AAAI/article/download/26893/26665">pdf</a> |
 <a href="https://github.com/Tianhao-Peng/CLGT">
-Project page
-
-<!-- <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
-<tbody>
-
-<tr>
-<td width="40%"><img src="photos\CLGT.pdf" alt="AAAI2023" width="180" height="110" style="border-style: none"></td>
-<td width="60%" valign="top">
-<p>
-<a href="https://ojs.aaai.org/index.php/AAAI/article/download/26893/26665">
-CLGT: A Graph Transformer for Student Performance Prediction in Collaborative Learning
-</a>
-<br><strong>Tianhao Peng</strong>, Yu Liang, Wenjun Wu, Jian Ren, Zhao Pengrui, Yanjun Pu. <br> Accepted by <a href="https://aaai-23.aaai.org/">AAAI Symposium</a>, 2023
-<br>
-<a href="https://ojs.aaai.org/index.php/AAAI/article/download/26893/26665">pdf</a> /
-<a href="https://github.com/Tianhao-Peng/CLGT">
-<font color="red">Project page</font>
-</a>
-<p align="justify" style="font-size:13px"> We present an extended graph transformer framework for collaborative learning (CLGT) for evaluating and predicting the performance of students. </p>
- -->
-
-<!-- 1. **CLGT: A Graph Transformer for Student Performance Prediction in Collaborative Learning**
-
-<strong>Tianhao Peng</strong>, Yu Liang, Wenjun Wu, Jian Ren, Zhao Pengrui, Yanjun Pu. <br><br> 
-
-Accepted by <a href="https://aaai-23.aaai.org/">AAAI Symposium</a>, 2023 ｜ <a href="https://ojs.aaai.org/index.php/AAAI/article/download/26893/26665">paper</a> -->
+Project page</a>
+2. **HELP-DKT: An Interpretable Cognitive Model of How Students Learn Programming Based on Deep Knowledge Tracing** <br>Yu Liang, <strong>Tianhao Peng</strong>, Yanjun Pu, Wenjun Wu <br><a href="https://www.nature.com/srep">Scientific Report (IF=4.379)</a> | <a href="https://www.nature.com/articles/s41598-022-07956-0">pdf</a> |
+<a href="https://github.com/liangyubuaa/HELP-DKT">Project page</a>
+3. **Embedding cognitive framework with self-attention for interpretable knowledge tracing** <br>Yanjun Pu, Wenjun Wu, <strong>Tianhao Peng</strong>, Fang Liu, Yu Liang, Xin Yu, Ruibo Chen, Pu Feng <br><a href="https://www.nature.com/srep">Scientific Report (IF=4.379)</a> | <a href="https://www.nature.com/articles/s41598-022-22539-9">pdf</a>
 
 Create content & metadata
 ------
