@@ -123,6 +123,12 @@ Education
     </li>
 </ul>
 
+Services
+------
+<ul>
+    <li>Journal Reviewers of <u>IEEE TKDE</u></li>
+</ul>
+
 Competitions and awards
 ------
 <ul>
