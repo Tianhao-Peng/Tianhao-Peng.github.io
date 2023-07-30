@@ -46,20 +46,23 @@ By advancing these research areas, I aim to contribute to the development of GNN
 
 News
 ======
-<p style="font-size:14px"> <strong>[2023.07]</strong> One first-authored paper on heterophilic graph neural networks submitted to ICDE 2024.</p>
+<p> <strong>[2023.07]</strong> One first-authored paper on heterophilic graph neural networks submitted to ICDE 2024.</p>
 
-<!-- <p style="font-size:14px"> <strong>[2023.05]</strong> One first-authored paper on graph contrastive learning submitted to NeurIPS 2023.</p> -->
+<!-- <p> <strong>[2023.05]</strong> One first-authored paper on graph contrastive learning submitted to NeurIPS 2023.</p> -->
 
-<p style="font-size:14px"> <strong>[2023.02]</strong> One first-authored paper on graph transformer accepted by AAAI Symposium 2023.</p>
+<p> <strong>[2023.02]</strong> One first-authored paper on graph transformer accepted by AAAI Symposium 2023.</p>
 
-<p style="font-size:14px"> <strong>[2022.10]</strong> One co-authored paper on interpretable deep knowledge tracing accepted by Scientific Report.</p>
+<p> <strong>[2022.10]</strong> One co-authored paper on interpretable deep knowledge tracing accepted by Scientific Report.</p>
 
-<p style="font-size:14px"> <strong>[2022.03]</strong> One co-authored paper on deep knowledge tracing accepted by Scientific Report.</p>
+<p> <strong>[2022.03]</strong> One co-authored paper on deep knowledge tracing accepted by Scientific Report.</p>
 
 Selected Publications
 ------
 1. **CLGT: A Graph Transformer for Student Performance Prediction in Collaborative Learning**
-- <strong>Tianhao Peng</strong>, Yu Liang, Wenjun Wu, Jian Ren, Zhao Pengrui, Yanjun Pu. <br><br> Accepted by </em><a href="https://aaai-23.aaai.org/">AAAI Symposium</a></em>, 2023 | <a href="https://ojs.aaai.org/index.php/AAAI/article/download/26893/26665">paper</a>
+
+<strong>Tianhao Peng</strong>, Yu Liang, Wenjun Wu, Jian Ren, Zhao Pengrui, Yanjun Pu. <br><br> 
+
+Accepted by <a href="https://aaai-23.aaai.org/">AAAI Symposium</a>, 2023 ｜ <a href="https://ojs.aaai.org/index.php/AAAI/article/download/26893/26665">paper</a>
 
 Create content & metadata
 ------
