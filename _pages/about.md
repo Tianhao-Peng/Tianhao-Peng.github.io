@@ -126,7 +126,7 @@ Education
 Services
 ------
 <ul>
-    <li>Journal Reviewers of <u>IEEE TKDE</u></li>
+    <li>Journal Reviewers of <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69">IEEE TKDE</u></a>
 </ul>
 
 Competitions and awards
