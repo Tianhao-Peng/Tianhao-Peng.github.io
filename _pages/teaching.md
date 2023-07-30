@@ -1,28 +1,40 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/teaching
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/
+title: "Teaching"
 ---
 
-Education
-======
-<li><strong>PhD student, School of Computer Science and Engineering, Beihang University.</strong> <a href="https://www.buaa.edu.cn">Beihang University</a>, 2021.09 - present</li>
-<ul>
-    <li>Main Courses: Machine Learning, Data Mining and its Application, Artificial Intelligent: Theory and Application.
-    </li>
-</ul>
-<li><strong>M.S., School of Computer Science and Engineering, Beihang University.</strong> <a href="https://www.buaa.edu.cn">Beihang University</a>, 2020.09 - 2021.07</li>
-<ul>
-    <li>Main Courses: Software Engineering, the Design and Analysis of Algorithm, Computing Theory, Probability Theory.
-    </li>
-</ul>
-<li><strong>B.S., School of Computer Science and Engineering, Beihang University.</strong> <a href="https://www.buaa.edu.cn">Beihang University</a>, 2016.09 - 2020.07</li>
-<ul>
-    <li>Main Courses: the Design and Analysis of Algorithm, C Programming, Computer Network, Computer Organization and System Architecture, Discrete Mathematics, Data Structure, Operating System, Database Principle
-        and Application, Object-oriented Programming(Java), Dig Data, Mathematical Analysis, Advanced Algebra, Discrete Mathematics.
-    </li>
-</ul>
+Research plays a central role in my teaching as students improve their
+analytical skills and master the tools of data analysis through hands-on
+experience. I have taught undergraduate courses on political violence and
+statistical methodology. While at UNC, I taught the graduate statistics lab for
+Advanced Topics in Political Data Science, where my work was recognized by the
+Political Science Department's Earle Wallace Award for Graduate Student
+Teaching. I also served as a teaching assistant for courses in international
+relations and American politics at UNC, in addition to the ICPSR Summer Program
+where I was a teaching assistant for a course on Bayesian modeling in the social
+sciences. I am also a
+[certified instructor](https://carpentries.org/instructors/#jayrobwilliams) with
+[The Carpentries](https://carpentries.org/), which develops evidence-based
+methods for teaching "essential data and computational skills for conducting
+efficient, open, and reproducible research."
+
+
+You can view my teaching portfolio [here](/files/pdf/teaching/Portfolio.pdf).
+You can find a selection of my teaching materials, including all of the labs
+from Advanced Topics in Political Data Science, [here](/teaching-materials).
+
+## Washington University in St. Louis
+- Pol Sci 3090: The Scientific Study of Civil War (Spring 2020)
+    - [Syllabus](/files/pdf/teaching/PS 3090 Syllabus.pdf)
+- Pol Sci 3171: International Conflict Management & Resolution (Fall 2019)
+    - [Syllabus](/files/pdf/teaching/PS 3171 Syllabus.pdf)
+
+## The University of North Carolina at Chapel Hill
+- Poli 281: Quantitative Research in Political Science (Spring 2019)
+    - [Syllabus](/files/pdf/teaching/POLI 281 Syllabus.pdf)
+- Poli 891: Lab for Advanced Topics in Political Data Science (Fall 2017, Fall 2018)
+    - [Syllabus](/files/pdf/teaching/POLI 891 Syllabus.pdf)
+
+## ICPSR Summer Program
+- Introduction to Applied Bayesian Modeling (Summer 2017)
+    - [Syllabus](/files/pdf/teaching/bayes2017.pdf)
