@@ -61,13 +61,13 @@ Selected Publications
 
 
 <tr>
-    <td width="20%"><img src="photos\CLGT.pdf" alt="USENIX2023" width="180" height="110" style="border-style: none"></td>
+    <td width=40%" style="text-align: center;"><img src="photos\CLGT.pdf" alt="USENIX2023" width="180" height="110" style="border-style: none"></td>
     <td width="80%" valign="top">
         <p>
             <a href="https://arxiv.org/submit/4771189/view">
                 <papertitle>CLGT: A Graph Transformer for Student Performance Prediction in Collaborative Learning</papertitle>
             </a>
-            <br><strong>Tianhao Peng</strong>, Yu Liang, Wenjun Wu, Jian Ren, Zhao Pengrui, Yanjun Pu. <br><br> Accepted by </em><a href="https://aaai-23.aaai.org/">AAAI Symposium</a></em>, 2023
+            <br><strong>Tianhao Peng</strong>, Yu Liang, Wenjun Wu, Jian Ren, Zhao Pengrui, Yanjun Pu. <br> Accepted by <a href="https://aaai-23.aaai.org/">AAAI Symposium</a>, 2023
             <br>
             <a href="https://arxiv.org/submit/4771189/view">pdf</a> /
             <a href="https://github.com/Tianhao-Peng/CLGT">
