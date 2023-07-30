@@ -56,21 +56,24 @@ News
 
 Selected Publications
 ======
-1. **CLGT: A Graph Transformer for Student Performance Prediction in Collaborative Learning** <br>**Tianhao Peng**, Yu Liang, Wenjun Wu, Jian Ren, Zhao Pengrui, Yanjun Pu <br><a href="https://aaai-23.aaai.org/">AAAI Symposium 2023</a> $\vert$ <a href="https://ojs.aaai.org/index.php/AAAI/article/download/26893/26665">pdf</a> $\vert$<a href="https://github.com/Tianhao-Peng/CLGT">
+1. **CLGT: A Graph Transformer for Student Performance Prediction in Collaborative Learning** <br>**Tianhao Peng**, Yu Liang, Wenjun Wu, Jian Ren, Zhao Pengrui, Yanjun Pu <br><a href="https://aaai-23.aaai.org/">AAAI Symposium 2023</a> $\vert$ <a href="files/CLGT_paper.pdf">pdf</a> $\vert$<a href="https://github.com/Tianhao-Peng/CLGT">
 Project page</a>
 <div style="text-align: center;">
-  <img src="files/CLGT.pdf" width="100" height="100" style="display: block; margin: 0 auto;">
+  <img src="photos/CLGT.pdf" width="400" height="400" style="display: block; margin: 0 auto;">
 </div>
+We present an extended graph transformer framework for collaborative learning (CLGT) for evaluating and predicting the performance of students.
 
-2. **HELP-DKT: An Interpretable Cognitive Model of How Students Learn Programming Based on Deep Knowledge Tracing** <br>Yu Liang, <strong>Tianhao Peng</strong>, Yanjun Pu, Wenjun Wu <br><a href="https://www.nature.com/srep">Scientific Report (IF=4.379)</a> $\vert$ <a href="https://www.nature.com/articles/s41598-022-07956-0">pdf</a> $\vert$ <a href="https://github.com/liangyubuaa/HELP-DKT">Project page</a>
+2. **HELP-DKT: An Interpretable Cognitive Model of How Students Learn Programming Based on Deep Knowledge Tracing** <br>Yu Liang, <strong>Tianhao Peng</strong>, Yanjun Pu, Wenjun Wu <br><a href="https://www.nature.com/srep">Scientific Report (IF=4.379)</a> $\vert$ <a href="files/HELP-DKT_paper.pdf">pdf</a> $\vert$ <a href="https://github.com/liangyubuaa/HELP-DKT">Project page</a>
 <div style="text-align: center;">
-  <img src="files/HELP-DKT.pdf" width="100" height="100" style="display: block; margin: 0 auto;">
+  <img src="photos/HELP-DKT.pdf" width="400" height="400" style="display: block; margin: 0 auto;">
 </div>
+We present an interpretable cognitive model named HELP-DKT, which can infer how students learn programming based on deep knowledge tracing.
 
-3. **Embedding cognitive framework with self-attention for interpretable knowledge tracing** <br>Yanjun Pu, Wenjun Wu, <strong>Tianhao Peng</strong>, Fang Liu, Yu Liang, Xin Yu, Ruibo Chen, Pu Feng <br><a href="https://www.nature.com/srep">Scientific Report (IF=4.379)</a> $\vert$ <a href="https://www.nature.com/articles/s41598-022-22539-9">pdf</a>
+3. **Embedding cognitive framework with self-attention for interpretable knowledge tracing** <br>Yanjun Pu, Wenjun Wu, <strong>Tianhao Peng</strong>, Fang Liu, Yu Liang, Xin Yu, Ruibo Chen, Pu Feng <br><a href="https://www.nature.com/srep">Scientific Report (IF=4.379)</a> $\vert$ <a href="files/EAKT_paper.pdf">pdf</a>
 <div style="text-align: center;">
-  <img src="files/EAKT.pdf" width="100" height="100" style="display: block; margin: 0 auto;">
+  <img src="photos/EAKT.pdf" width="400" height="400" style="display: block; margin: 0 auto;">
 </div>
+We present a new learner modeling framework named by EAKT that embeds a structured cognitive model into deep knowledge tracing.
 
 Research achievements
 ======
