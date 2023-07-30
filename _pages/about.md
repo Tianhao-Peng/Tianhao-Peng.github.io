@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student (2021.09 - present) at the State Key Laboratory of Software Development Environment (SKLSDE) and <a href="https://scse.buaa.edu.cn/">School of Computer Science and Engineering (SCSE)</a>, Beihang University, Beijing, China, supervised by <a href="https://iai.buaa.edu.cn/info/1013/1093.htm">Prof. Wenjun Wu</a>. Before that, I obtained my BSc degree in 2020
+My name is pronounced as "tyen-how pung". I am a Ph.D. student (2021.09 - present) at the State Key Laboratory of Software Development Environment (SKLSDE) and <a href="https://scse.buaa.edu.cn/">School of Computer Science and Engineering (SCSE)</a>, Beihang University, Beijing, China, supervised by <a href="https://iai.buaa.edu.cn/info/1013/1093.htm">Prof. Wenjun Wu</a>. Before that, I obtained my BSc degree in 2020
 from
 <a href="https://www.buaa.edu.cn/">Beihang University</a> (<i>Awarded Outstanding Graduate & Honor Student</i>).
 
