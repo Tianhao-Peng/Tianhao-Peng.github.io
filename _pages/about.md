@@ -61,7 +61,7 @@ Selected Publications
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
   <tbody>
     <tr>
-      <td width="40%"><img src="photos\CLGT.pdf" alt="AAAI2023" width="180" height="110" style="border-style: none"></td>
+      <td width="40%"><img src="photos\CLGT.pdf" alt="AAAI2023" width="180" height="110" style="border-style: none">
       <td width="60%" valign="top">
         [**CLGT: A Graph Transformer for Student Performance Prediction in Collaborative Learning**](https://arxiv.org/submit/4771189/view)  
         **Tianhao Peng**, Yu Liang, Wenjun Wu, Jian Ren, Zhao Pengrui, Yanjun Pu.  
@@ -71,10 +71,8 @@ Selected Publications
         [Project page](https://github.com/Tianhao-Peng/CLGT)
 
         We present an extended graph transformer framework for collaborative learning (CLGT) for evaluating and predicting the performance of students.
-  </td>
-    </tr>
     <tr>
-      <td width="40%"><img src="photos\HELP-DKT.pdf" alt="Scientific Report" width="180" height="110" style="border-style: none"></td>
+      <td width="40%"><img src="photos\HELP-DKT.pdf" alt="Scientific Report" width="180" height="110" style="border-style: none">
       <td width="60%" valign="top">
         [**HELP-DKT: An Interpretable Cognitive Model of How Students Learn Programming Based on Deep Knowledge Tracing**](https://www.nature.com/articles/s41598-022-07956-0)  
         Yu Liang, **Tianhao Peng**, Yanjun Pu, Wenjun Wu.  
@@ -84,10 +82,8 @@ Selected Publications
         [Project page](https://github.com/liangyubuaa/HELP-DKT)
 
         We present an interpretable cognitive model named HELP-DKT, which can infer how students learn programming based on deep knowledge tracing.
-  </td>
-    </tr>
     <tr>
-      <td width="40%"><img src="photos\EAKT.pdf" alt="Scientific Report" width="180" height="110" style="border-style: none"></td>
+      <td width="40%"><img src="photos\EAKT.pdf" alt="Scientific Report" width="180" height="110" style="border-style: none">
       <td width="60%" valign="top">
         [**Embedding cognitive framework with self-attention for interpretable knowledge tracing**](https://www.nature.com/articles/s41598-022-22539-9)  
         Yanjun Pu, Wenjun Wu, **Tianhao Peng**, Fang Liu, Yu Liang, Xin Yu, Ruibo Chen, Pu Feng.  
@@ -96,8 +92,6 @@ Selected Publications
         [pdf](https://www.nature.com/articles/s41598-022-22539-9)
 
         We present a new learner modeling framework named EAKT that embeds a structured cognitive model into deep knowledge tracing.
-  </td>
-    </tr>
   </tbody>
 </table>
 
