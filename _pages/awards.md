@@ -1,6 +1,8 @@
+---
+permalink: /awards/
+title: "Awards"
+---
 
-Competitions and awards
-======
 <ul>
     <li>First Class Scholarship for Graduate Freshmen (2020) in Beihang University</li>
     <li>School-level Outstanding Graduates (2020) in Beihang University</li>

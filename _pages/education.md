@@ -1,5 +1,8 @@
-Education
-======
+---
+permalink: /education/
+title: "Education"
+---
+
 <li><strong>PhD student, School of Computer Science and Engineering, Beihang University.</strong> <a href="https://www.buaa.edu.cn">Beihang University</a>, 2021.09 - present</li>
 <ul>
     <li>Main Courses: Machine Learning, Data Mining and its Application, Artificial Intelligent: Theory and Application.

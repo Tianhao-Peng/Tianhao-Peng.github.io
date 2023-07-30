@@ -15,7 +15,7 @@ from
 
 **Email**: pengtianhao@buaa.edu.cn $\vert$ <a href="https://scholar.google.com/citations?user=jykL70MAAAAJ">Google Scholar</a> $\vert$ <a href="https://github.com/Tianhao-Peng"> Github </a>
 
-Research
+Research Interests
 ======
 I am interested in <strong>Graph Neural Networks (GNNs)</strong> and their applications. My research goal is to develop GNN models that are general, efficient, and explainable.
 Currently, my research focuses on the following areas:
@@ -49,7 +49,7 @@ News
 <p style="font-size:16px"> <strong>[2022.10]</strong> One co-authored paper on interpretable deep knowledge tracing accepted by Scientific Report.</p>
 <p style="font-size:16px"> <strong>[2022.03]</strong> One co-authored paper on deep knowledge tracing accepted by Scientific Report.</p>
 
-Selected Publications
+Publications
 ======
 1. **CLGT: A Graph Transformer for Student Performance Prediction in Collaborative Learning** <br>**Tianhao Peng**, Yu Liang, Wenjun Wu, Jian Ren, Zhao Pengrui, Yanjun Pu <br><a href="https://aaai-23.aaai.org/">AAAI Symposium 2023</a> $\vert$ <a href="files/CLGT_paper.pdf">pdf</a> $\vert$<a href="https://github.com/Tianhao-Peng/CLGT">Project page</a>
 2. **HELP-DKT: An Interpretable Cognitive Model of How Students Learn Programming Based on Deep Knowledge Tracing** <br>Yu Liang, <strong>Tianhao Peng</strong>, Yanjun Pu, Wenjun Wu <br><a href="https://www.nature.com/srep">Scientific Report (IF=4.379)</a> $\vert$ <a href="files/HELP-DKT_paper.pdf">pdf</a> $\vert$ <a href="https://github.com/liangyubuaa/HELP-DKT">Project page</a>
@@ -71,41 +71,6 @@ Research achievements
 <li><strong>[China patent]</strong> I am one of the drafters of the China patent <a href="https://www.patent9.com/patent/202210737640.5.html">"Code quality problem detection and repair method for continuous integration of microservices"</a>.</li>
 </ul>
 
-Projects
-======
-  <li><strong>[Science and Technology Innovation 2030—“New Generation Artificial Intelligence” Major Project]</strong> I participated in the "Research on crowd intelligence inspired convergence for crowd behavior" project.
-      Mainly responsible for the related research of "the mechanism and methods of graph algorithms".
-      <ol>
-          <li><strong>Research:</strong> Participated in the research of "Graph Neural Networks in Heterogeneous Graphs" and published a paper. Submitted to ICDE 2024.</li>
-          <li><strong>Research:</strong> Participated in the research of "Graph Transformer for Learning Behavior in Group Collaboration Environment", and published the paper
-              <a href="https://arxiv.org/submit/4771189/view">
-                  <papertitle>CLGT: A Graph Transformer for Student Performance Prediction in Collaborative Learning</papertitle>
-              </a>. Accepted by AAAI Symposium 2023.</li>
-      </ol>
-  </li>
-  <li><strong>[National Natural Science Foundation of China]</strong> I participated in the "Research on the Mechanism and Methods of Large-scale Online Collaborative Learning" project. Mainly responsible for the related
-      research of "knowledge tracing for modelling student knowledge over time".
-      <ol>
-          <li><strong>Research:</strong> Participated in the research of "Personalized Programming Behavior Analysis Based on deep learning". The undergraduate graduation design paper based on relevant research won the
-              award of "Excellent Graduation design Paper", and published the paper
-              <a href="https://www.nature.com/articles/s41598-022-07956-0">
-                  <papertitle>HELP-DKT: An Interpretable Cognitive Model of How Students Learn Programming Based on Deep Knowledge Tracing</papertitle>
-              </a>. Accepted by Scientific Reports (impact factor: 4.379).</li>
-          <li><strong>Research:</strong> Participated in the research of "Interpretable knowledge tracking model", and published the paper
-              <a href="https://www.nature.com/articles/s41598-022-22539-9">
-                  <papertitle>Embedding cognitive framework with self-attention for interpretable knowledge tracing</papertitle>
-              </a>. Accepted by Scientific Reports (impact factor: 4.379).</li>
-      </ol>
-  </li>
-  <li><strong>[National Key R&D Program of China]</strong> I participated in the "Intelligent Service Adaptation Theory and Key Technologies" project. Mainly responsible for the related research of "adaptation evolution
-      code quality detection and repair".
-      <ol>
-          <li><strong>China national standard</strong> Participated in the preparation and application of the national standard <a href="https://std.samr.gov.cn/gb/search/gbDetailed?id=91B707B3BE89F2B6E05397BE0A0AB1F8">"Information technology- Artificial intelligence- Code of practice for data annotation of machine learning"</a>.</li>
-          <li><strong>China group standard</strong> Participated in the preparation and application of the group standard <a href="http://www.ttbz.org.cn/StandardManage/Detail/52125/">"Framework for intelligent microservices adaptation"</a>.</li>
-          <li><strong>China group standard</strong> Participated in the preparation and application of the group standard <a href="http://www.ttbz.org.cn/StandardManage/Detail/52126/">"Intelligent microservices adaptation performance evaluation index system"</a>.</li>
-          <li><strong>China patent</strong> Participated in the preparation and application of the patent <a href="https://www.patent9.com/patent/202210737640.5.html">"Code quality problem detection and repair method for continuous integration of microservices"</a>.</li>
-      </ol>
-</li>
 
 Services
 ======
