@@ -44,7 +44,7 @@ News
 ======
 <p style="font-size:16px"> <strong>[2023.07]</strong> One first-authored paper on heterophilic graph neural networks submitted to ICDE 2024.</p>
 
-<p style="font-size:16px"> <strong>[2023.05]</strong> One first-authored paper on graph contrastive learning submitted to NeurIPS 2023.</p>
+<!-- <p style="font-size:16px"> <strong>[2023.05]</strong> One first-authored paper on graph contrastive learning submitted to NeurIPS 2023.</p> -->
 
 <p style="font-size:16px"> <strong>[2023.02]</strong> One first-authored paper on graph transformer accepted by AAAI Symposium 2023.</p>
 
