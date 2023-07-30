@@ -75,11 +75,7 @@ CLGT: A Graph Transformer for Student Performance Prediction in Collaborative Le
 <font color="red">Project page</font>
 </a>
 <p align="justify" style="font-size:13px"> We present an extended graph transformer framework for collaborative learning (CLGT) for evaluating and predicting the performance of students. </p>
-</td>
-</tr>
 
-</tbody>
-</table>
 
 <!-- 1. **CLGT: A Graph Transformer for Student Performance Prediction in Collaborative Learning**
 
