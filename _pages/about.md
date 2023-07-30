@@ -15,10 +15,7 @@ from
 
 Research
 ======
-
-<p >
-    I am interested in <strong>Graph Neural Networks (GNNs)</strong> and their applications. My research goal is to develop GNN models that are general, efficient, and explainable.
-</p>
+I am interested in <strong>Graph Neural Networks (GNNs)</strong> and their applications. My research goal is to develop GNN models that are general, efficient, and explainable.
 Currently, my research focuses on the following areas:
 <ul>
     <li>
@@ -42,7 +39,6 @@ Currently, my research focuses on the following areas:
     </li>
 </ul>
 By advancing these research areas, I aim to contribute to the development of GNNs that are versatile, efficient, and provide understandable reasoning, ultimately enabling their widespread adoption in various domains.
-</p>
 
 News
 ======
