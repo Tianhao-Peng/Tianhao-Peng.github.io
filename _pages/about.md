@@ -44,6 +44,7 @@ News
 <!-- <p style="font-size:16px"> -->
 <ul>
 <li><strong>[2023.07]</strong> One first-authored paper on heterophilic graph neural networks submitted to ICDE 2024.</li>
+<li><strong>[2023.06]</strong> One co-authored paper on knowledge tracing submitted to Transactions on Information Systems.</li>
 <li><strong>[2023.02]</strong> One first-authored paper on graph transformer accepted by AAAI Symposium 2023.</li>
 <li><strong>[2022.10]</strong> One co-authored paper on interpretable deep knowledge tracing accepted by Scientific Report.</li>
 <li><strong>[2022.03]</strong> One co-authored paper on deep knowledge tracing accepted by Scientific Report.</li>
