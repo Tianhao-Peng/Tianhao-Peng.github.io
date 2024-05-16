@@ -7,8 +7,8 @@ title: "Projects"
     <ol>
         <li><strong>Research:</strong> Participated in the research of "Graph Neural Networks in Heterogeneous Graphs" and published a paper</li>
             <a href="https://arxiv.org/pdf/2312.09708">
-                <papertitle>CLGT: GraphRARE: Reinforcement Learning Enhanced Graph Neural Network with Relative Entropy</papertitle>
-            </a>. Accepted by ICDE 2024.</li>
+                <papertitle>GraphRARE: Reinforcement Learning Enhanced Graph Neural Network with Relative Entropy</papertitle>
+            </a>. Accepted by ICDE 2024.
         <li><strong>Research:</strong> Participated in the research of "Graph Transformer for Learning Behavior in Group Collaboration Environment", and published the paper
             <a href="https://arxiv.org/pdf/2308.02038">
                 <papertitle>CLGT: A Graph Transformer for Student Performance Prediction in Collaborative Learning</papertitle>
