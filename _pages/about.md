@@ -33,7 +33,7 @@ Currently, my research focuses on the following areas:
         evolving patterns in dynamic networks.
     </li>
     <li>
-        <strong>Practical Problems</strong>: Applying graph algorithms in solving real-world problems, such as analyzing students' collaborative learning patterns and implementing knowledge tracing for students. Leveraging
+        <strong>Practical Problems</strong>: Applying graph algorithms in solving real-world problems, such as students' collaborative learning pattern analysis, knowledge tracing for students, recommendation system, and EEG-based analysis. Leveraging
         graph-based techniques to extract meaningful insights from educational data and improve learning outcomes.
     </li>
 </ul>
@@ -43,6 +43,14 @@ News
 ======
 <!-- <p style="font-size:16px"> -->
 <ul>
+<li><strong>[2024.05]</strong> One first-authored paper on graph contrastive learning submitted to NeurIPS 2024.</li>
+<li><strong>[2024.05]</strong> One co-authored paper on knowledge-based VQA for LLM accepted by ACL 2024.</li>
+<li><strong>[2024.04]</strong> One first-authored paper on graph contrastive learning for recommendation system submitted to COCOON.</li>
+<li><strong>[2024.04]</strong> One co-authored paper on EEG-based emotion classification accepted by JNE (Journal of Neural Engineering).</li>
+<li><strong>[2024.03]</strong> One co-authored paper on knowledge tracing accepted by TOIS (Transactions on Information System).</li>
+<li><strong>[2024.02]</strong> One co-authored paper on learning-to-rank submitted to KDD 2024.</li>
+<li><strong>[2024.02]</strong> One co-authored paper on knowledge-based VQA for LLM submitted to ACL 2024.</li>
+<li><strong>[2023.12]</strong> One first-authored paper on heterophilic graph neural networks accepted by ICDE 2024.</li>
 <li><strong>[2023.07]</strong> One first-authored paper on heterophilic graph neural networks submitted to ICDE 2024.</li>
 <li><strong>[2023.06]</strong> One co-authored paper on knowledge tracing submitted to Transactions on Information Systems.</li>
 <li><strong>[2023.02]</strong> One first-authored paper on graph transformer accepted by AAAI Symposium 2023.</li>
@@ -52,9 +60,11 @@ News
 
 Publications
 ======
-1. **CLGT: A Graph Transformer for Student Performance Prediction in Collaborative Learning** <br>**Tianhao Peng**, Yu Liang, Wenjun Wu, Jian Ren, Zhao Pengrui, Yanjun Pu <br><a href="https://aaai-23.aaai.org/">AAAI Symposium 2023</a> $\vert$ <a href="files/CLGT_paper.pdf">pdf</a> $\vert$<a href="https://github.com/Tianhao-Peng/CLGT">Project page</a>
-2. **HELP-DKT: An Interpretable Cognitive Model of How Students Learn Programming Based on Deep Knowledge Tracing** <br>Yu Liang, <strong>Tianhao Peng</strong>, Yanjun Pu, Wenjun Wu <br><a href="https://www.nature.com/srep">Scientific Report (IF=4.379)</a> $\vert$ <a href="files/HELP-DKT_paper.pdf">pdf</a> $\vert$ <a href="https://github.com/liangyubuaa/HELP-DKT">Project page</a>
-3. **Embedding cognitive framework with self-attention for interpretable knowledge tracing** <br>Yanjun Pu, Wenjun Wu, <strong>Tianhao Peng</strong>, Fang Liu, Yu Liang, Xin Yu, Ruibo Chen, Pu Feng <br><a href="https://www.nature.com/srep">Scientific Report (IF=4.379)</a> $\vert$ <a href="files/EAKT_paper.pdf">pdf</a>
+1. **GraphRARE: Reinforcement Learning Enhanced Graph Neural Network with Relative Entropy** <br>**Tianhao Peng**, Wenjun Wu, Haitao Yuan, Zhifeng Bao, Zhao Pengrui, Xin Yu, Xuetao Lin, Yu Liang, Yanjun Pu<br><a href="https://icde2024.github.io">ICDE 2024</a> $\vert$ <a href="files/GraphRARE_paper.pdf">pdf</a> 
+2. **CLGT: A Graph Transformer for Student Performance Prediction in Collaborative Learning** <br>**Tianhao Peng**, Yu Liang, Wenjun Wu, Jian Ren, Zhao Pengrui, Yanjun Pu <br><a href="https://aaai-23.aaai.org/">AAAI Symposium 2023</a> $\vert$ <a href="files/CLGT_paper.pdf">pdf</a> $\vert$<a href="https://github.com/Tianhao-Peng/CLGT">Project page</a>
+3. **ELAKT: Enhancing Locality for Attentive Knowledge Tracing** <br>Yanjun Pu, Fang Liu, Rongye Shi, Haitao Yuan, Ruibo Chen, **Tianhao Peng**, Wenjun Wu <br><a href="https://dl.acm.org/journal/tois/">TOIS (Transactions on Information System)</a> $\vert$ <a href="files/ELAKT_paper.pdf">pdf</a> 
+4. **HELP-DKT: An Interpretable Cognitive Model of How Students Learn Programming Based on Deep Knowledge Tracing** <br>Yu Liang, <strong>Tianhao Peng</strong>, Yanjun Pu, Wenjun Wu <br><a href="https://www.nature.com/srep">Scientific Report (IF=4.379)</a> $\vert$ <a href="files/HELP-DKT_paper.pdf">pdf</a> $\vert$ <a href="https://github.com/liangyubuaa/HELP-DKT">Project page</a>
+5. **Embedding cognitive framework with self-attention for interpretable knowledge tracing** <br>Yanjun Pu, Wenjun Wu, <strong>Tianhao Peng</strong>, Fang Liu, Yu Liang, Xin Yu, Ruibo Chen, Pu Feng <br><a href="https://www.nature.com/srep">Scientific Report (IF=4.379)</a> $\vert$ <a href="files/EAKT_paper.pdf">pdf</a>
 
 <!-- <ol>
     <li><strong>CLGT: A Graph Transformer for Student Performance Prediction in Collaborative Learning</strong><br><strong>Tianhao Peng</strong>, Yu Liang, Wenjun Wu, Jian Ren, Zhao Pengrui, Yanjun Pu <br><a href="https://aaai-23.aaai.org/">AAAI Symposium 2023</a> $\vert$ <a href="files/CLGT_paper.pdf">pdf</a> $\vert$<a href="https://github.com/Tianhao-Peng/CLGT">Project page</a><br><div style="text-align: center;"><img src="images/CLGT.pdf" width="400" height="400" style="display: block; margin: 0 auto;"></div><br>We present an extended graph transformer framework for collaborative learning (CLGT) for evaluating and predicting the performance of students.</li>
