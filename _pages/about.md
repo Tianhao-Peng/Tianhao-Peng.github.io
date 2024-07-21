@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is pronounced as "tyen-how pung". I am a Ph.D. student (2021.09 - present) at the State Key Laboratory of Software Development Environment (SKLSDE) and <a href="https://scse.buaa.edu.cn/">School of Computer Science and Engineering (SCSE)</a>, Beihang University, Beijing, China, supervised by <a href="https://www.researchgate.net/profile/Wenjun-Wu-15">Prof. Wenjun Wu</a>. Before that, I obtained my BSc degree in 2020 from <a href="https://www.buaa.edu.cn/">Beihang University</a> (<i>Awarded Outstanding Graduate & Honor Student</i>).
+My name is pronounced as "tyen-how pung". I am a Ph.D. student (2021.09 - present) at the State Key Laboratory of Complex & Critical Software Environment and <a href="https://scse.buaa.edu.cn/">School of Computer Science and Engineering (SCSE)</a>, Beihang University, Beijing, China, supervised by <a href="https://www.researchgate.net/profile/Wenjun-Wu-15">Prof. Wenjun Wu</a>. Before that, I obtained my BSc degree in 2020 from <a href="https://www.buaa.edu.cn/">Beihang University</a> (<i>Awarded Outstanding Graduate & Honor Student</i>).
 
 **Email**: pengtianhao@buaa.edu.cn $\vert$ <a href="https://scholar.google.com/citations?user=jykL70MAAAAJ">Google Scholar</a> $\vert$ <a href="https://github.com/Tianhao-Peng"> Github </a>
 
@@ -17,7 +17,7 @@ Research Interests
 I am interested in <strong>Graph Neural Networks (GNNs)</strong> and their applications. My research goal is to develop GNN models that are general, efficient, and explainable.
 Currently, my research focuses on the following areas:
 <ul>
-    <li>
+    <!-- <li>
         <strong>Heterophilic GNN</strong>: Exploring GNN architectures that can effectively handle graphs with different types of nodes or edges, enabling the modeling of diverse relationships in complex networks.
     </li>
     <li>
@@ -31,10 +31,28 @@ Currently, my research focuses on the following areas:
     <li>
         <strong>Dynamic Graph Neural Networks</strong>: Extending GNNs to handle dynamic graphs where the underlying structure changes over time. Adapting GNN architectures to incorporate temporal information and capture
         evolving patterns in dynamic networks.
+    </li> -->
+    <li>
+        <strong>Graph Neural Networks</strong>: Exploring advanced GNN architectures capable of effectively processing and modeling a variety of graph types, which allows for a comprehensive understanding and representation of complex network relationships.
     </li>
     <li>
-        <strong>Practical Problems</strong>: Applying graph algorithms in solving real-world problems, such as students' collaborative learning pattern analysis, knowledge tracing for students, recommendation system, and EEG-based analysis. Leveraging
-        graph-based techniques to extract meaningful insights from educational data and improve learning outcomes.
+        <strong>Graph Contrastive Learning</strong>: Developing methodologies to enhance graph representation learning through contrastive mechanisms that exploit differences and similarities across graph structures.
+    </li>
+    <li>
+        <strong>Graph Curriculum Learning</strong>: Implementing strategies that gradually introduce increasingly complex graph structures, aiming to optimize learning progression in graph-based models.
+    </li>
+    <li>
+        <strong>Spatial-Temporal Graph Modeling</strong>: Crafting models that effectively integrate spatial and temporal dimensions to predict dynamics in networked systems.
+    </li>
+    <li>
+        <strong>Causal Inference</strong>: Employing graph-based frameworks to uncover causal relationships within data, enabling more predictive and interpretable models.
+    </li>
+    <li>
+        <strong>Large Language Model for Graphs</strong>: Leveraging large language models to understand and generate graph-based data, facilitating novel applications in graph analytics.
+    </li>
+    <li>
+        <strong>Practical Applications</strong>: Utilizing graph algorithms to address real-world challenges, including students' collaborative learning patterns analysis, knowledge tracing for students, recommendation systems, and EEG-based analysis. 
+        <!-- Applying graph-based techniques to derive actionable insights from educational data and enhance learning outcomes. -->
     </li>
 </ul>
 By advancing these research areas, I aim to contribute to the development of GNNs that are versatile, efficient, and provide understandable reasoning, ultimately enabling their widespread adoption in various domains.
@@ -43,17 +61,19 @@ News
 ======
 <!-- <p style="font-size:16px"> -->
 <ul>
+<!-- <li><strong>[2024.07]</strong> One first-authored paper on graph curriculum learning for knowledge tracing submitted to ICDE 2025.</li>
+<li><strong>[2024.07]</strong> One first-authored paper on Graph Transformer for collaborative learning submitted to TOIS (Transactions on Information Systems).</li>
+<li><strong>[2024.07]</strong> One first-authored paper on graph contrastive learning for recommendation system submitted to TKDE (Transactions on Data Engineering).</li> -->
 <li><strong>[2024.05]</strong> One first-authored paper on graph contrastive learning submitted to NeurIPS 2024.</li>
 <li><strong>[2024.05]</strong> One co-authored paper on knowledge-based VQA for LLM accepted by ACL 2024.</li>
-<li><strong>[2024.04]</strong> One first-authored paper on graph contrastive learning for recommendation system submitted to COCOON.</li>
 <li><strong>[2024.04]</strong> One co-authored paper on EEG-based emotion classification accepted by JNE (Journal of Neural Engineering).</li>
-<li><strong>[2024.03]</strong> One co-authored paper on knowledge tracing accepted by TOIS (Transactions on Information System).</li>
+<li><strong>[2024.03]</strong> One co-authored paper on knowledge tracing accepted by TOIS (Transactions on Information Systems).</li>
 <li><strong>[2024.02]</strong> One co-authored paper on learning-to-rank submitted to KDD 2024.</li>
 <li><strong>[2024.02]</strong> One co-authored paper on knowledge-based VQA for LLM submitted to ACL 2024.</li>
 <li><strong>[2023.12]</strong> One first-authored paper on heterophilic graph neural networks accepted by ICDE 2024.</li>
 <li><strong>[2023.07]</strong> One first-authored paper on heterophilic graph neural networks submitted to ICDE 2024.</li>
 <li><strong>[2023.06]</strong> One co-authored paper on knowledge tracing submitted to Transactions on Information Systems.</li>
-<li><strong>[2023.02]</strong> One first-authored paper on graph transformer accepted by AAAI Symposium 2023.</li>
+<li><strong>[2023.02]</strong> One first-authored paper on Graph Transformer accepted by AAAI Symposium 2023.</li>
 <li><strong>[2022.10]</strong> One co-authored paper on interpretable deep knowledge tracing accepted by Scientific Report.</li>
 <li><strong>[2022.03]</strong> One co-authored paper on deep knowledge tracing accepted by Scientific Report.</li>
 </ul>
