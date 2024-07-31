@@ -14,24 +14,9 @@ My name is pronounced as "tyen-how pung". I am a Ph.D. student (2021.09 - presen
 
 Research Interests
 ======
-I am interested in <strong>Graph Neural Networks (GNNs)</strong> and their applications. My research goal is to develop GNN models that are general, efficient, and explainable.
+I am interested in <strong>Graph Neural Networks (GNNs)</strong> and their applications. My research goal is to develop GNN models that are general, efficient, and scalable.
 Currently, my research focuses on the following areas:
 <ul>
-    <!-- <li>
-        <strong>Heterophilic GNN</strong>: Exploring GNN architectures that can effectively handle graphs with different types of nodes or edges, enabling the modeling of diverse relationships in complex networks.
-    </li>
-    <li>
-        <strong>Interpretable GNN</strong>: Developing GNN models that provide interpretability and transparency in their decision-making process, allowing users to understand the underlying factors influencing the
-        predictions and actions.
-    </li>
-    <li>
-        <strong>Graph Transformer</strong>: Investigating the integration of transformer-based architectures into GNNs, leveraging self-attention mechanisms to capture long-range dependencies and improve the expressive
-        power of GNN models.
-    </li>
-    <li>
-        <strong>Dynamic Graph Neural Networks</strong>: Extending GNNs to handle dynamic graphs where the underlying structure changes over time. Adapting GNN architectures to incorporate temporal information and capture
-        evolving patterns in dynamic networks.
-    </li> -->
     <li>
         <strong>Graph Neural Networks</strong>: Exploring advanced GNN architectures capable of effectively processing and modeling a variety of graph types, which allows for a comprehensive understanding and representation of complex network relationships.
     </li>
@@ -59,23 +44,23 @@ By advancing these research areas, I aim to contribute to the development of GNN
 
 News
 ======
-<!-- <p style="font-size:16px"> -->
+<p style="font-size:16px">
 <ul>
-<!-- <li><strong>[2024.07]</strong> One first-authored paper on graph curriculum learning for knowledge tracing submitted to ICDE 2025.</li>
-<li><strong>[2024.07]</strong> One first-authored paper on Graph Transformer for collaborative learning submitted to TOIS (Transactions on Information Systems).</li>
-<li><strong>[2024.07]</strong> One first-authored paper on graph contrastive learning for recommendation system submitted to TKDE (Transactions on Data Engineering).</li> -->
+<li><strong>[2024.07]</strong> One first-authored paper on graph curriculum learning for knowledge tracing submitted to ICDE 2025.</li>
+<li><strong>[2024.07]</strong> One first-authored paper on Graph Transformer for collaborative learning submitted to TOIS journal.</li>
+<li><strong>[2024.07]</strong> One first-authored paper on graph contrastive learning for recommendation system submitted to TKDE journal.</li>
 <li><strong>[2024.05]</strong> One first-authored paper on graph contrastive learning submitted to NeurIPS 2024.</li>
-<li><strong>[2024.05]</strong> One co-authored paper on knowledge-based VQA for LLM accepted by ACL 2024.</li>
-<li><strong>[2024.04]</strong> One co-authored paper on EEG-based emotion classification accepted by JNE (Journal of Neural Engineering).</li>
-<li><strong>[2024.03]</strong> One co-authored paper on knowledge tracing accepted by TOIS (Transactions on Information Systems).</li>
+<li><strong>[2024.05]</strong> One co-authored paper on knowledge-based VQA for LLM <strong>accepted</strong> by ACL 2024.</li>
+<li><strong>[2024.04]</strong> One co-authored paper on EEG-based emotion classification <strong>accepted</strong> by JNE (Journal of Neural Engineering).</li>
+<li><strong>[2024.03]</strong> One co-authored paper on knowledge tracing <strong>accepted</strong> by TOIS (Transactions on Information Systems).</li>
 <li><strong>[2024.02]</strong> One co-authored paper on learning-to-rank submitted to KDD 2024.</li>
 <li><strong>[2024.02]</strong> One co-authored paper on knowledge-based VQA for LLM submitted to ACL 2024.</li>
-<li><strong>[2023.12]</strong> One first-authored paper on heterophilic graph neural networks accepted by ICDE 2024.</li>
+<li><strong>[2023.12]</strong> One first-authored paper on heterophilic graph neural networks <strong>accepted</strong> by ICDE 2024.</li>
 <li><strong>[2023.07]</strong> One first-authored paper on heterophilic graph neural networks submitted to ICDE 2024.</li>
 <li><strong>[2023.06]</strong> One co-authored paper on knowledge tracing submitted to Transactions on Information Systems.</li>
-<li><strong>[2023.02]</strong> One first-authored paper on Graph Transformer accepted by AAAI Symposium 2023.</li>
-<li><strong>[2022.10]</strong> One co-authored paper on interpretable deep knowledge tracing accepted by Scientific Report.</li>
-<li><strong>[2022.03]</strong> One co-authored paper on deep knowledge tracing accepted by Scientific Report.</li>
+<li><strong>[2023.02]</strong> One first-authored paper on Graph Transformer <strong>accepted</strong> by AAAI Symposium 2023.</li>
+<li><strong>[2022.10]</strong> One co-authored paper on interpretable deep knowledge tracing <strong>accepted</strong> by Scientific Report.</li>
+<li><strong>[2022.03]</strong> One co-authored paper on deep knowledge tracing <strong>accepted</strong> by Scientific Report.</li>
 </ul>
 
 Publications
@@ -109,4 +94,5 @@ Services
     <li>Journal Reviewers of <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69">IEEE TKDE</a></li>
 </ul>
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=55gp0hg8lit&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
+
+
