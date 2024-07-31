@@ -46,9 +46,9 @@ News
 ======
 <p style="font-size:16px">
 <ul>
-<li><strong>[2024.07]</strong> One first-authored paper on graph curriculum learning for knowledge tracing submitted to ICDE 2025.</li>
+<!-- <li><strong>[2024.07]</strong> One first-authored paper on graph curriculum learning for knowledge tracing submitted to ICDE 2025.</li>
 <li><strong>[2024.07]</strong> One first-authored paper on Graph Transformer for collaborative learning submitted to TOIS journal.</li>
-<li><strong>[2024.07]</strong> One first-authored paper on graph contrastive learning for recommendation system submitted to TKDE journal.</li>
+<li><strong>[2024.07]</strong> One first-authored paper on graph contrastive learning for recommendation system submitted to TKDE journal.</li> -->
 <li><strong>[2024.05]</strong> One first-authored paper on graph contrastive learning submitted to NeurIPS 2024.</li>
 <li><strong>[2024.05]</strong> One co-authored paper on knowledge-based VQA for LLM <strong>accepted</strong> by ACL 2024.</li>
 <li><strong>[2024.04]</strong> One co-authored paper on EEG-based emotion classification <strong>accepted</strong> by JNE (Journal of Neural Engineering).</li>
@@ -96,3 +96,4 @@ Services
 
 
 
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=55gp0hg8lit&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
