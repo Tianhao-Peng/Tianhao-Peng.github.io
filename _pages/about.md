@@ -44,7 +44,7 @@ By advancing these research areas, I aim to contribute to the development of GNN
 
 News
 ======
-<p style="font-size:16px">
+<!-- <p style="font-size:16px"> -->
 <ul>
 <!-- <li><strong>[2024.07]</strong> One first-authored paper on graph curriculum learning for knowledge tracing submitted to ICDE 2025.</li>
 <li><strong>[2024.07]</strong> One first-authored paper on Graph Transformer for collaborative learning submitted to TOIS journal.</li>
