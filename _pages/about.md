@@ -26,9 +26,9 @@ Currently, my research focuses on the following areas:
     <li>
         <strong>Graph Curriculum Learning</strong>: Implementing strategies that gradually introduce increasingly complex graph structures, aiming to optimize learning progression in graph-based models.
     </li>
-    <li>
+    <!-- <li>
         <strong>Spatial-Temporal Graph Modeling</strong>: Crafting models that effectively integrate spatial and temporal dimensions to predict dynamics in networked systems.
-    </li>
+    </li> -->
     <li>
         <strong>Causal Inference</strong>: Employing graph-based frameworks to uncover causal relationships within data, enabling more predictive and interpretable models.
     </li>
@@ -46,13 +46,14 @@ News
 ======
 <!-- <p style="font-size:16px"> -->
 <ul>
-<!-- <li><strong>[2024.07]</strong> One first-authored paper on graph curriculum learning for knowledge tracing submitted to ICDE 2025.</li>
-<li><strong>[2024.07]</strong> One first-authored paper on Graph Transformer for collaborative learning submitted to TOIS journal.</li>
-<li><strong>[2024.07]</strong> One first-authored paper on graph contrastive learning for recommendation system submitted to TKDE journal.</li> -->
-<li><strong>[2024.05]</strong> One first-authored paper on graph contrastive learning submitted to NeurIPS 2024.</li>
+<li><strong>[2024.08]</strong> One co-authored paper submitted to KDD 2025.</li>
+<li><strong>[2024.08]</strong> One first-authored paper submitted to AAAI 2025.</li>
+<li><strong>[2024.08]</strong> One first-authored paper submitted to ICDE 2025.</li>
+<li><strong>[2024.07]</strong> One first-authored paper on Graph Transformer for collaborative learning submitted to TOIS journal (ACM Transactions on Information Systems).</li>
+<li><strong>[2024.07]</strong> One first-authored paper on graph contrastive learning for recommendation system submitted to TKDE journal (IEEE Transactions on Knowledge and Data Engineering).</li>
 <li><strong>[2024.05]</strong> One co-authored paper on knowledge-based VQA for LLM <strong>accepted</strong> by ACL 2024.</li>
 <li><strong>[2024.04]</strong> One co-authored paper on EEG-based emotion classification <strong>accepted</strong> by JNE (Journal of Neural Engineering).</li>
-<li><strong>[2024.03]</strong> One co-authored paper on knowledge tracing <strong>accepted</strong> by TOIS (Transactions on Information Systems).</li>
+<li><strong>[2024.03]</strong> One co-authored paper on knowledge tracing <strong>accepted</strong> by TOIS journal (ACM Transactions on Information Systems).</li>
 <li><strong>[2024.02]</strong> One co-authored paper on learning-to-rank submitted to KDD 2024.</li>
 <li><strong>[2024.02]</strong> One co-authored paper on knowledge-based VQA for LLM submitted to ACL 2024.</li>
 <li><strong>[2023.12]</strong> One first-authored paper on heterophilic graph neural networks <strong>accepted</strong> by ICDE 2024.</li>
