@@ -20,7 +20,7 @@ title: "Teaching"
             <li>Guided junior in the subjects of "Reinforcement Learning and its Application" and taught some learning and practical skills</li>
         </ul>
     </li>
-    <li><strong>Teaching Assistant, Beihang University, 2022.02 - 2021.04</strong>
+    <li><strong>Teaching Assistant, Beihang University, 2022.02 - 2022.04</strong>
         <ul>
             <li>Guided post-graduate in the subjects of "Scientific Writing and Reporting" and taught some writing skills</li>
         </ul>
