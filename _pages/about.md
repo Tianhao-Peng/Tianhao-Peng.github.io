@@ -46,10 +46,10 @@ News
 ======
 <!-- <p style="font-size:16px"> -->
 <ul>
+<li><strong>[2024.08]</strong> One first-authored paper on Graph Transformer for collaborative learning submitted to TLT journal (IEEE Transactions on Learning Technologies).</li>
 <li><strong>[2024.08]</strong> One co-authored paper submitted to KDD 2025.</li>
 <!-- <li><strong>[2024.08]</strong> One first-authored paper submitted to AAAI 2025.</li> -->
 <li><strong>[2024.08]</strong> One first-authored paper submitted to ICDE 2025.</li>
-<li><strong>[2024.07]</strong> One first-authored paper on Graph Transformer for collaborative learning submitted to TOIS journal (ACM Transactions on Information Systems).</li>
 <li><strong>[2024.07]</strong> One first-authored paper on graph contrastive learning for recommendation system submitted to TKDE journal (IEEE Transactions on Knowledge and Data Engineering).</li>
 <li><strong>[2024.05]</strong> One co-authored paper on knowledge-based VQA for LLM <strong>accepted</strong> by ACL 2024.</li>
 <li><strong>[2024.04]</strong> One co-authored paper on EEG-based emotion classification <strong>accepted</strong> by JNE (Journal of Neural Engineering).</li>
