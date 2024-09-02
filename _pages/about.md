@@ -48,7 +48,7 @@ News
 <ul>
 <li><strong>[2024.08]</strong> One first-authored paper on Graph Transformer for collaborative learning submitted to TLT journal (IEEE Transactions on Learning Technologies).</li>
 <li><strong>[2024.08]</strong> One co-authored paper submitted to KDD 2025.</li>
-<!-- <li><strong>[2024.08]</strong> One first-authored paper submitted to AAAI 2025.</li> -->
+<li><strong>[2024.08]</strong> One first-authored paper submitted to AAAI 2025.</li>
 <li><strong>[2024.08]</strong> One first-authored paper submitted to ICDE 2025.</li>
 <li><strong>[2024.07]</strong> One first-authored paper on graph contrastive learning for recommendation system submitted to TKDE journal (IEEE Transactions on Knowledge and Data Engineering).</li>
 <li><strong>[2024.05]</strong> One co-authored paper on knowledge-based VQA for LLM <strong>accepted</strong> by ACL 2024.</li>
@@ -69,8 +69,9 @@ Publications
 1. **GraphRARE: Reinforcement Learning Enhanced Graph Neural Network with Relative Entropy** <br>**Tianhao Peng**, Wenjun Wu, Haitao Yuan, Zhifeng Bao, Zhao Pengrui, Xin Yu, Xuetao Lin, Yu Liang, Yanjun Pu<br><a href="https://icde2024.github.io">ICDE 2024</a> $\vert$ <a href="files/GraphRARE_paper.pdf">pdf</a> 
 2. **CLGT: A Graph Transformer for Student Performance Prediction in Collaborative Learning** <br>**Tianhao Peng**, Yu Liang, Wenjun Wu, Jian Ren, Zhao Pengrui, Yanjun Pu <br><a href="https://aaai-23.aaai.org/">AAAI Symposium 2023</a> $\vert$ <a href="files/CLGT_paper.pdf">pdf</a> $\vert$<a href="https://github.com/Tianhao-Peng/CLGT">Project page</a>
 3. **ELAKT: Enhancing Locality for Attentive Knowledge Tracing** <br>Yanjun Pu, Fang Liu, Rongye Shi, Haitao Yuan, Ruibo Chen, **Tianhao Peng**, Wenjun Wu <br><a href="https://dl.acm.org/journal/tois/">TOIS (Transactions on Information System)</a> $\vert$ <a href="files/ELAKT_paper.pdf">pdf</a> 
-4. **HELP-DKT: An Interpretable Cognitive Model of How Students Learn Programming Based on Deep Knowledge Tracing** <br>Yu Liang, <strong>Tianhao Peng</strong>, Yanjun Pu, Wenjun Wu <br><a href="https://www.nature.com/srep">Scientific Report (IF=4.379)</a> $\vert$ <a href="files/HELP-DKT_paper.pdf">pdf</a> $\vert$ <a href="https://github.com/liangyubuaa/HELP-DKT">Project page</a>
-5. **Embedding cognitive framework with self-attention for interpretable knowledge tracing** <br>Yanjun Pu, Wenjun Wu, <strong>Tianhao Peng</strong>, Fang Liu, Yu Liang, Xin Yu, Ruibo Chen, Pu Feng <br><a href="https://www.nature.com/srep">Scientific Report (IF=4.379)</a> $\vert$ <a href="files/EAKT_paper.pdf">pdf</a>
+4. **Soft Knowledge Prompt: Help External Knowledge Become a Better Teacher to Instruct LLM in Knowledge-based VQA** <br>Qunbo Wang, Ruyi Ji, **Tianhao Peng**, Wenjun Wu, Zechao Li, Jing Liu <br><a href="https://aclanthology.org/volumes/2024.acl-long/">ACL 2024 long paper</a> $\vert$ <a href="files/ACL2024.pdf">pdf</a> 
+5. **HELP-DKT: An Interpretable Cognitive Model of How Students Learn Programming Based on Deep Knowledge Tracing** <br>Yu Liang, <strong>Tianhao Peng</strong>, Yanjun Pu, Wenjun Wu <br><a href="https://www.nature.com/srep">Scientific Report (IF=4.379)</a> $\vert$ <a href="files/HELP-DKT_paper.pdf">pdf</a> $\vert$ <a href="https://github.com/liangyubuaa/HELP-DKT">Project page</a>
+6. **Embedding cognitive framework with self-attention for interpretable knowledge tracing** <br>Yanjun Pu, Wenjun Wu, <strong>Tianhao Peng</strong>, Fang Liu, Yu Liang, Xin Yu, Ruibo Chen, Pu Feng <br><a href="https://www.nature.com/srep">Scientific Report (IF=4.379)</a> $\vert$ <a href="files/EAKT_paper.pdf">pdf</a>
 
 <!-- <ol>
     <li><strong>CLGT: A Graph Transformer for Student Performance Prediction in Collaborative Learning</strong><br><strong>Tianhao Peng</strong>, Yu Liang, Wenjun Wu, Jian Ren, Zhao Pengrui, Yanjun Pu <br><a href="https://aaai-23.aaai.org/">AAAI Symposium 2023</a> $\vert$ <a href="files/CLGT_paper.pdf">pdf</a> $\vert$<a href="https://github.com/Tianhao-Peng/CLGT">Project page</a><br><div style="text-align: center;"><img src="images/CLGT.pdf" width="400" height="400" style="display: block; margin: 0 auto;"></div><br>We present an extended graph transformer framework for collaborative learning (CLGT) for evaluating and predicting the performance of students.</li>
@@ -92,7 +93,8 @@ Research achievements
 Services
 ======
 <ul>
-    <li>Journal Reviewers of <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69">IEEE TKDE</a></li>
+    <li>Journal Reviewers of <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69">IEEE TKDE</a>, 
+    <a href="https://ieee-edusociety.org/publication/ieee-tlt">IEEE TLT</a> </li>
 </ul>
 
 
