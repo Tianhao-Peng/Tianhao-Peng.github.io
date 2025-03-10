@@ -23,28 +23,6 @@ Currently, my research focuses on the following areas:
     <li>
         <strong>Large Language Models</strong>: Building and training large models to enhance reasoning abilities and explore the boundaries of their capabilities.
     </li>
-    <!-- <li>
-        <strong>Graph Neural Networks</strong>: Exploring advanced GNN architectures capable of effectively processing and modeling a variety of graph types, which allows for a comprehensive understanding and representation of complex network relationships.
-    </li>
-    <li>
-        <strong>Graph Contrastive Learning</strong>: Developing methodologies to enhance graph representation learning through contrastive mechanisms that exploit differences and similarities across graph structures.
-    </li>
-    <li>
-        <strong>Graph Curriculum Learning</strong>: Implementing strategies that gradually introduce increasingly complex graph structures, aiming to optimize learning progression in graph-based models.
-    </li>
-    <!-- <li>
-        <strong>Spatial-Temporal Graph Modeling</strong>: Crafting models that effectively integrate spatial and temporal dimensions to predict dynamics in networked systems.
-    </li> -->
-    <!-- <li>
-        <strong>Causal Inference</strong>: Employing graph-based frameworks to uncover causal relationships within data, enabling more predictive and interpretable models.
-    </li>
-    <li>
-        <strong>Large Language Model for Graphs</strong>: Leveraging large language models to understand and generate graph-based data, facilitating novel applications in graph analytics.
-    </li>
-    <li>
-        <strong>Practical Applications</strong>: Utilizing graph algorithms to address real-world challenges, including students' collaborative learning patterns analysis, knowledge tracing for students, recommendation systems, and EEG-based analysis. 
-        <!-- Applying graph-based techniques to derive actionable insights from educational data and enhance learning outcomes. -->
-    </li> --> -->
 </ul>
 By advancing these research areas, I aim to contribute to the development of GNNs that are versatile, efficient, and provide understandable reasoning, ultimately enabling their widespread adoption in various domains.
 
