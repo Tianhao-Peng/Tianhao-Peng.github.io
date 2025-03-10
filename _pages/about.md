@@ -67,17 +67,17 @@ News
 
 Publications
 ======
-1. TagRec: Temporal-Aware Graph Contrastive Learning with Theoretical Augmentation for Sequential Recommendation<br>**Tianhao Peng**, Haitao Yuan, Yongqi Zhang, Yuchen Li, Peihong Dai, Qunbo Wang, Senzhang Wang, Wenjun Wu <br>TKDE (IEEE Transactions on Knowledge and Data Engineering)
-2. SOLA-GCL: Subgraph-oriented Learnable Augmentation Method for Graph Contrastive Learning<br>**Tianhao Peng**, Xuhong Li, Haitao Yuan, Yuchen Li, Haoyi Xiong<br>AAAI 2025
-3. GraphRARE: Reinforcement Learning Enhanced Graph Neural Network with Relative Entropy<br>**Tianhao Peng**, Wenjun Wu, Haitao Yuan, Zhifeng Bao, Zhao Pengrui, Xin Yu, Xuetao Lin, Yu Liang, Yanjun Pu <br>ICDE 2024
-4. CLGT: A Graph Transformer for Student Performance Prediction in Collaborative Learning<br>**Tianhao Peng**, Yu Liang, Wenjun Wu, Jian Ren, Zhao Pengrui, Yanjun Pu <br>AAAI 2023
-5. GOAT: A Novel Global-local Optimized Graph Transformer Framework for Predicting Student Performance in Collaborative Learning<br>**Tianhao Peng**, Qiang Yue, Yu Liang, Jian Ren, Jie Luo, Haitao Yuan, Wenjun Wu<br>Nature Scientific Report
-6. ELAKT: Enhancing Locality for Attentive Knowledge Tracing** <br>Yanjun Pu, Fang Liu, Rongye Shi, Haitao Yuan, Ruibo Chen, **Tianhao Peng**, Wenjun Wu <br>TOIS (ACM Transactions on Information System)
-7. Soft Knowledge Prompt: Help External Knowledge Become a Better Teacher to Instruct LLM in Knowledge-based VQA <br>Qunbo Wang, Ruyi Ji, **Tianhao Peng**, Wenjun Wu, Zechao Li, Jing Liu <br>ACL 2024 (long paper)
-8. RankElectra: Semi-supervised Pre-training of Learning-to-Rank Electra for Web-scale Search<br>Yuchen Li, Haoyi Xiong, Yongqi Zhang, Jiang Bian, **Tianhao Peng**, Xuhong Li, Shuaiqiang Wang, Linghe Kong, Dawei Yin<br>KDD 2025
-9. FetchEEG: a hybrid approach combining feature extraction and temporal-channel joint attention for EEG-based emotion classification<br>Yu Liang, Chenlong Zhang, Shan An, Zaitian Wang, Kaize Shi, **Tianhao Peng**, Yuqing Ma, Xiaoyang Xie, Jian He and Kun Zheng<br>Journal of Neural Engineering
-10. HELP-DKT: An Interpretable Cognitive Model of How Students Learn Programming Based on Deep Knowledge Tracing <br>Yu Liang, **Tianhao Peng**, Yanjun Pu, Wenjun Wu <br>Nature Scientific Report
-11. Embedding cognitive framework with self-attention for interpretable knowledge tracing <br>Yanjun Pu, Wenjun Wu, **Tianhao Peng**, Fang Liu, Yu Liang, Xin Yu, Ruibo Chen, Pu Feng <br>Nature Scientific Report
+1. TagRec: Temporal-Aware Graph Contrastive Learning with Theoretical Augmentation for Sequential Recommendation<br>**Tianhao Peng**, Haitao Yuan, Yongqi Zhang, Yuchen Li, Peihong Dai, Qunbo Wang, Senzhang Wang, Wenjun Wu <br>**TKDE (IEEE Transactions on Knowledge and Data Engineering)**
+2. SOLA-GCL: Subgraph-oriented Learnable Augmentation Method for Graph Contrastive Learning<br>**Tianhao Peng**, Xuhong Li, Haitao Yuan, Yuchen Li, Haoyi Xiong<br>**AAAI 2025**
+3. GraphRARE: Reinforcement Learning Enhanced Graph Neural Network with Relative Entropy<br>**Tianhao Peng**, Wenjun Wu, Haitao Yuan, Zhifeng Bao, Zhao Pengrui, Xin Yu, Xuetao Lin, Yu Liang, Yanjun Pu <br>**ICDE 2024**
+4. CLGT: A Graph Transformer for Student Performance Prediction in Collaborative Learning<br>**Tianhao Peng**, Yu Liang, Wenjun Wu, Jian Ren, Zhao Pengrui, Yanjun Pu <br>**AAAI 2023**
+5. GOAT: A Novel Global-local Optimized Graph Transformer Framework for Predicting Student Performance in Collaborative Learning<br>**Tianhao Peng**, Qiang Yue, Yu Liang, Jian Ren, Jie Luo, Haitao Yuan, Wenjun Wu<br>**Nature Scientific Report**
+6. ELAKT: Enhancing Locality for Attentive Knowledge Tracing** <br>Yanjun Pu, Fang Liu, Rongye Shi, Haitao Yuan, Ruibo Chen, **Tianhao Peng**, Wenjun Wu <br>**TOIS (ACM Transactions on Information System)**
+7. Soft Knowledge Prompt: Help External Knowledge Become a Better Teacher to Instruct LLM in Knowledge-based VQA <br>Qunbo Wang, Ruyi Ji, **Tianhao Peng**, Wenjun Wu, Zechao Li, Jing Liu <br>**ACL 2024 (long paper)**
+8. RankElectra: Semi-supervised Pre-training of Learning-to-Rank Electra for Web-scale Search<br>Yuchen Li, Haoyi Xiong, Yongqi Zhang, Jiang Bian, **Tianhao Peng**, Xuhong Li, Shuaiqiang Wang, Linghe Kong, Dawei Yin<br>**KDD 2025**
+9. FetchEEG: a hybrid approach combining feature extraction and temporal-channel joint attention for EEG-based emotion classification<br>Yu Liang, Chenlong Zhang, Shan An, Zaitian Wang, Kaize Shi, **Tianhao Peng**, Yuqing Ma, Xiaoyang Xie, Jian He and Kun Zheng<br>**Journal of Neural Engineering**
+10. HELP-DKT: An Interpretable Cognitive Model of How Students Learn Programming Based on Deep Knowledge Tracing <br>Yu Liang, **Tianhao Peng**, Yanjun Pu, Wenjun Wu <br>**Nature Scientific Report**
+11. Embedding cognitive framework with self-attention for interpretable knowledge tracing <br>Yanjun Pu, Wenjun Wu, **Tianhao Peng**, Fang Liu, Yu Liang, Xin Yu, Ruibo Chen, Pu Feng <br>**Nature Scientific Report**
 
 <!-- <ol>
     <li><strong>CLGT: A Graph Transformer for Student Performance Prediction in Collaborative Learning</strong><br><strong>Tianhao Peng</strong>, Yu Liang, Wenjun Wu, Jian Ren, Zhao Pengrui, Yanjun Pu <br><a href="https://aaai-23.aaai.org/">AAAI Symposium 2023</a> $\vert$ <a href="files/CLGT_paper.pdf">pdf</a> $\vert$<a href="https://github.com/Tianhao-Peng/CLGT">Project page</a><br><div style="text-align: center;"><img src="images/CLGT.pdf" width="400" height="400" style="display: block; margin: 0 auto;"></div><br>We present an extended graph transformer framework for collaborative learning (CLGT) for evaluating and predicting the performance of students.</li>
