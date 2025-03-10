@@ -14,14 +14,14 @@ My name is pronounced as "tyen-how pung". I am a Ph.D. student (2021.09 - presen
 
 Research Interests
 ======
-I am interested in <strong>Graph Data Mining</strong> and Large Language Models. My research goal is to develop GNN models that are general, efficient, and scalable.
+I am interested in <strong>Graph Data Mining</strong> and Large Language Models, pursuing innovative solutions in both areas.
 Currently, my research focuses on the following areas:
 <ul>
     <li>
-        <strong>Graph Data Mining</strong>: Exploring advanced graph data mining models capable of effectively processing and modeling a variety of graph types, which allows for a comprehensive understanding and representation of complex network relationships.
+        <strong>Graph Data Mining</strong>: Developing efficient, scalable GNN models to process diverse graph types and represent complex network relationships.
     </li>
     <li>
-        <strong>Large Language Models</strong>: 
+        <strong>Large Language Models</strong>: Building and training large models to enhance reasoning abilities and explore the boundaries of their capabilities.
     </li>
     <!-- <li>
         <strong>Graph Neural Networks</strong>: Exploring advanced GNN architectures capable of effectively processing and modeling a variety of graph types, which allows for a comprehensive understanding and representation of complex network relationships.
