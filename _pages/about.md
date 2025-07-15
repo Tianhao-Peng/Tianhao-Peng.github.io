@@ -30,16 +30,14 @@ News
 <ul>
     <li><strong>July 2025:</strong> <strong>Co-first author</strong> on two new papers released on ArXiv: a comprehensive survey on latent reasoning and a study on LLM-based agents leveraging cross-domain experience.</li>
     <li><strong>June 2025:</strong> Contributed to a paper on an empirical study of building effective agents, released on ArXiv.</li>
-    <li><strong>January 2025:</strong> <strong>Lead author</strong> on a paper focusing on Contrastive Learning in Recommendation Systems, accepted by TKDE journal (IEEE Transactions on Knowledge and Data Engineering).</li>
-    <li><strong>December 2024:</strong> <strong>Lead author</strong> on a paper exploring Graph Contrastive Learning, accepted by AAAI 2025.</li>
+    <li><strong>January 2025:</strong> <strong>First author</strong> on a paper focusing on Contrastive Learning in Recommendation Systems, accepted by TKDE journal (IEEE Transactions on Knowledge and Data Engineering).</li>
+    <li><strong>December 2024:</strong> <strong>First author</strong> on a paper exploring Graph Contrastive Learning, accepted by AAAI 2025.</li>
     <li><strong>November 2024:</strong> Co-authored a paper on Learning-to-Rank, accepted by KDD 2025.</li>
     <li><strong>May 2024:</strong> Co-authored a paper on knowledge-based VQA for LLM, accepted by ACL 2024.</li>
     <li><strong>April 2024:</strong> Co-authored a paper on EEG-based emotion classification, accepted by JNE (Journal of Neural Engineering).</li>
     <li><strong>March 2024:</strong> Co-authored a paper on knowledge tracing, accepted by TOIS journal (ACM Transactions on Information Systems).</li>
-    <li><strong>December 2023:</strong> <strong>Lead author</strong> on a paper detailing heterophilic graph neural networks, accepted by ICDE 2024.</li>
-    <li><strong>February 2023:</strong> <strong>Lead author</strong> on a paper on Graph Transformer, accepted by AAAI 2023.</li>
-    <li><strong>October 2022:</strong> Contributed to a paper on interpretable deep knowledge tracing, accepted by Scientific Reports.</li>
-    <li><strong>March 2022:</strong> Contributed to a paper on deep knowledge tracing, accepted by Scientific Reports.</li>
+    <li><strong>December 2023:</strong> <strong>First author</strong> on a paper detailing heterophilic graph neural networks, accepted by ICDE 2024.</li>
+    <li><strong>February 2023:</strong> <strong>First author</strong> on a paper on Graph Transformer, accepted by AAAI 2023.</li>
 </ul>
 
 Publications
