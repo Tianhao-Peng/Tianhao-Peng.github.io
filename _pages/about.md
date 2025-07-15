@@ -1,3 +1,11 @@
+<!--
+ * @Author: Tianhao Peng pengtianhao@buaa.edu.cn
+ * @Date: 2025-07-15 14:42:30
+ * @LastEditors: Tianhao Peng pengtianhao@buaa.edu.cn
+ * @LastEditTime: 2025-07-15 17:18:17
+ * @FilePath: /Tianhao-Peng.github.io/_pages/about.md
+ * @Description: None
+-->
 ---
 permalink: /
 title: "About me"
@@ -18,51 +26,99 @@ I am interested in <strong>Graph Data Mining</strong> and Large Language Models,
 Currently, my research focuses on the following areas:
 <ul>
     <li>
-        <strong>Graph Data Mining</strong>: Developing efficient, scalable GNN models to process diverse graph types and represent complex network relationships.
-    </li>
-    <li>
         <strong>Large Language Models</strong>: Building and training large models to enhance reasoning abilities and explore the boundaries of their capabilities.
     </li>
+    <li>
+        <strong>Graph Data Mining</strong>: Developing efficient, scalable GNN models to process diverse graph types and represent complex network relationships.
+    </li>
 </ul>
-By advancing these research areas, I aim to contribute to the development of GNNs that are versatile, efficient, and provide understandable reasoning, ultimately enabling their widespread adoption in various domains.
 
 News
 ======
-<!-- <p style="font-size:16px"> -->
 <ul>
-<li><strong>[2025.02]</strong> One first-authored paper on Graph Transformer-based learning activities analysis <strong>accepted</strong> by Nature Scientific Reports.</li>
-<li><strong>[2025.01]</strong> One first-authored paper on Contrastive Learning in Recommendation System <strong>accepted</strong> by TKDE journal (IEEE Transactions on Knowledge and Data Engineering).</li>
-<li><strong>[2024.12]</strong> One first-authored paper on Graph Contrastive Learning <strong>accepted</strong> by AAAI 2025.</li>
-<li><strong>[2024.11]</strong> One co-authored paper on Learning-to-Rank <strong>accepted</strong> by KDD 2025.</li>
-<li><strong>[2024.05]</strong> One co-authored paper on knowledge-based VQA for LLM <strong>accepted</strong> by ACL 2024.</li>
-<li><strong>[2024.04]</strong> One co-authored paper on EEG-based emotion classification <strong>accepted</strong> by JNE (Journal of Neural Engineering).</li>
-<li><strong>[2024.03]</strong> One co-authored paper on knowledge tracing <strong>accepted</strong> by TOIS journal (ACM Transactions on Information Systems).</li>
-<li><strong>[2023.12]</strong> One first-authored paper on heterophilic graph neural networks <strong>accepted</strong> by ICDE 2024.</li>
-<li><strong>[2023.02]</strong> One first-authored paper on Graph Transformer <strong>accepted</strong> by AAAI 2023.</li>
-<li><strong>[2022.10]</strong> One co-authored paper on interpretable deep knowledge tracing <strong>accepted</strong> by Scientific Report.</li>
-<li><strong>[2022.03]</strong> One co-authored paper on deep knowledge tracing <strong>accepted</strong> by Scientific Report.</li>
+    <li><strong>July 2025:</strong> <strong>Co-first author</strong> on two new papers released on ArXiv: a comprehensive survey on latent reasoning and a study on LLM-based agents leveraging cross-domain experience.</li>
+    <li><strong>June 2025:</strong> Contributed to a paper on an empirical study of building effective agents, released on ArXiv.</li>
+    <li><strong>January 2025:</strong> <strong>Lead author</strong> on a paper focusing on Contrastive Learning in Recommendation Systems, accepted by TKDE journal (IEEE Transactions on Knowledge and Data Engineering).</li>
+    <li><strong>December 2024:</strong> <strong>Lead author</strong> on a paper exploring Graph Contrastive Learning, accepted by AAAI 2025.</li>
+    <li><strong>November 2024:</strong> Co-authored a paper on Learning-to-Rank, accepted by KDD 2025.</li>
+    <li><strong>May 2024:</strong> Co-authored a paper on knowledge-based VQA for LLM, accepted by ACL 2024.</li>
+    <li><strong>April 2024:</strong> Co-authored a paper on EEG-based emotion classification, accepted by JNE (Journal of Neural Engineering).</li>
+    <li><strong>March 2024:</strong> Co-authored a paper on knowledge tracing, accepted by TOIS journal (ACM Transactions on Information Systems).</li>
+    <li><strong>December 2023:</strong> <strong>Lead author</strong> on a paper detailing heterophilic graph neural networks, accepted by ICDE 2024.</li>
+    <li><strong>February 2023:</strong> <strong>Lead author</strong> on a paper on Graph Transformer, accepted by AAAI 2023.</li>
+    <li><strong>October 2022:</strong> Contributed to a paper on interpretable deep knowledge tracing, accepted by Scientific Reports.</li>
+    <li><strong>March 2022:</strong> Contributed to a paper on deep knowledge tracing, accepted by Scientific Reports.</li>
 </ul>
 
 Publications
 ======
-1. TagRec: Temporal-Aware Graph Contrastive Learning with Theoretical Augmentation for Sequential Recommendation<br>**Tianhao Peng**, Haitao Yuan, Yongqi Zhang, Yuchen Li, Peihong Dai, Qunbo Wang, Senzhang Wang, Wenjun Wu <br>**TKDE (IEEE Transactions on Knowledge and Data Engineering)**
-2. SOLA-GCL: Subgraph-oriented Learnable Augmentation Method for Graph Contrastive Learning<br>**Tianhao Peng**, Xuhong Li, Haitao Yuan, Yuchen Li, Haoyi Xiong<br>**AAAI 2025**
-3. GraphRARE: Reinforcement Learning Enhanced Graph Neural Network with Relative Entropy<br>**Tianhao Peng**, Wenjun Wu, Haitao Yuan, Zhifeng Bao, Zhao Pengrui, Xin Yu, Xuetao Lin, Yu Liang, Yanjun Pu <br>**ICDE 2024**
-4. CLGT: A Graph Transformer for Student Performance Prediction in Collaborative Learning<br>**Tianhao Peng**, Yu Liang, Wenjun Wu, Jian Ren, Zhao Pengrui, Yanjun Pu <br>**AAAI 2023**
-5. GOAT: A Novel Global-local Optimized Graph Transformer Framework for Predicting Student Performance in Collaborative Learning<br>**Tianhao Peng**, Qiang Yue, Yu Liang, Jian Ren, Jie Luo, Haitao Yuan, Wenjun Wu<br>**Nature Scientific Report**
-6. ELAKT: Enhancing Locality for Attentive Knowledge Tracing <br>Yanjun Pu, Fang Liu, Rongye Shi, Haitao Yuan, Ruibo Chen, **Tianhao Peng**, Wenjun Wu <br>**TOIS (ACM Transactions on Information System)**
-7. Soft Knowledge Prompt: Help External Knowledge Become a Better Teacher to Instruct LLM in Knowledge-based VQA <br>Qunbo Wang, Ruyi Ji, **Tianhao Peng**, Wenjun Wu, Zechao Li, Jing Liu <br>**ACL 2024 (long paper)**
-8. RankElectra: Semi-supervised Pre-training of Learning-to-Rank Electra for Web-scale Search<br>Yuchen Li, Haoyi Xiong, Yongqi Zhang, Jiang Bian, **Tianhao Peng**, Xuhong Li, Shuaiqiang Wang, Linghe Kong, Dawei Yin<br>**KDD 2025**
-9. FetchEEG: a hybrid approach combining feature extraction and temporal-channel joint attention for EEG-based emotion classification<br>Yu Liang, Chenlong Zhang, Shan An, Zaitian Wang, Kaize Shi, **Tianhao Peng**, Yuqing Ma, Xiaoyang Xie, Jian He and Kun Zheng<br>**Journal of Neural Engineering**
-10. HELP-DKT: An Interpretable Cognitive Model of How Students Learn Programming Based on Deep Knowledge Tracing <br>Yu Liang, **Tianhao Peng**, Yanjun Pu, Wenjun Wu <br>**Nature Scientific Report**
-11. Embedding cognitive framework with self-attention for interpretable knowledge tracing <br>Yanjun Pu, Wenjun Wu, **Tianhao Peng**, Fang Liu, Yu Liang, Xin Yu, Ruibo Chen, Pu Feng <br>**Nature Scientific Report**
-
-<!-- <ol>
-    <li><strong>CLGT: A Graph Transformer for Student Performance Prediction in Collaborative Learning</strong><br><strong>Tianhao Peng</strong>, Yu Liang, Wenjun Wu, Jian Ren, Zhao Pengrui, Yanjun Pu <br><a href="https://aaai-23.aaai.org/">AAAI Symposium 2023</a> $\vert$ <a href="files/CLGT_paper.pdf">pdf</a> $\vert$<a href="https://github.com/Tianhao-Peng/CLGT">Project page</a><br><div style="text-align: center;"><img src="images/CLGT.pdf" width="400" height="400" style="display: block; margin: 0 auto;"></div><br>We present an extended graph transformer framework for collaborative learning (CLGT) for evaluating and predicting the performance of students.</li>
-    <li><strong>HELP-DKT: An Interpretable Cognitive Model of How Students Learn Programming Based on Deep Knowledge Tracing</strong><br>Yu Liang, <strong>Tianhao Peng</strong>, Yanjun Pu, Wenjun Wu <br><a href="https://www.nature.com/srep">Scientific Report (IF=3.8)</a> $\vert$ <a href="files/HELP-DKT_paper.pdf">pdf</a> $\vert$ <a href="https://github.com/liangyubuaa/HELP-DKT">Project page</a><br><div style="text-align: center;"><img src="images/HELP-DKT.pdf" width="400" height="400" style="display: block; margin: 0 auto;"></div><br>We present an interpretable cognitive model named HELP-DKT, which can infer how students learn programming based on deep knowledge tracing.</li>
-    <li><strong>Embedding cognitive framework with self-attention for interpretable knowledge tracing</strong><br>Yanjun Pu, Wenjun Wu, <strong>Tianhao Peng</strong>, Fang Liu, Yu Liang, Xin Yu, Ruibo Chen, Pu Feng <br><a href="https://www.nature.com/srep">Scientific Report (IF=3.8)</a> $\vert$ <a href="files/EAKT_paper.pdf">pdf</a><br><div style="text-align: center;"><img src="images/EAKT.pdf" width="400" height="400" style="display: block; margin: 0 auto;"></div><br>We present a new learner modeling framework named by EAKT that embeds a structured cognitive model into deep knowledge tracing.</li>
-</ol> -->
-
+* indicates equal contribution.
+<div>
+    <h2>LLM (Large Language Models)</h2>
+    <ul>
+        <li>
+            <strong>A Survey on Latent Reasoning</strong><br>
+            Rui-Jie Zhu*, <strong>Tianhao Peng*</strong>, Tianhao Cheng*, Xingwei Qu*, Jinfa Huang, Dawei Zhu, Hao Wang, Kaiwen Xue, Xuanliang Zhang, Yong Shan, Tianle Cai, Taylor Kergan, Assel Kembay, Andrew Smith, Chenghua Lin, Binh Nguyen, Yuqi Pan, Yuhong Chou, Zefan Cai, Zhenhe Wu, Yongchi Zhao, Tianyu Liu, Jian Yang, Wangchunshu Zhou, Chujie Zheng, Chongxuan Li, Yuyin Zhou, Zhoujun Li, Zhaoxiang Zhang, Jiaheng Liu, Ge Zhang, Wenhao Huang, Jason Eshraghian<br>
+            <a href="https://arxiv.org/pdf/2507.06203">Paper</a>
+        </li>
+        <li>
+            <strong>Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving</strong><br>
+            Xiangru Tang*, Tianrui Qin*, <strong>Tianhao Peng*</strong>, Ziyang Zhou, Daniel Shao, Tingting Du, Xinming Wei, Peng Xia, Fang Wu, He Zhu, Ge Zhang, Jiaheng Liu, Xingyao Wang, Sirui Hong, Chenglin Wu, Hao Cheng, Chi Wang, Wangchunshu Zhou<br>
+            <a href="https://arxiv.org/pdf/2507.06229">Paper</a>
+        </li>
+        <li>
+            <strong>OAgents: An Empirical Study of Building Effective Agents</strong><br>
+            He Zhu, Tianrui Qin, King Zhu, Heyuan Huang, Yeyi Guan, Jinxiang Xia, Yi Yao, Hanhao Li, Ningning Wang, Pai Liu, <strong>Tianhao Peng</strong>, Xin Gui, Xiaowan Li, Yuhui Liu, Yuchen Eleanor Jiang, Jun Wang, Changwang Zhang, Xiangru Tang, Ge Zhang, Jian Yang, Minghao Liu, Xitong Gao, Jiaheng Liu, Wangchunshu Zhou<br>
+            <a href="https://arxiv.org/pdf/2506.15741">Paper</a>
+        </li>
+        <li>
+            <strong>Soft Knowledge Prompt: Help External Knowledge Become a Better Teacher to Instruct LLM in Knowledge-based VQA</strong><br>
+            Qunbo Wang, Ruyi Ji, <strong>Tianhao Peng</strong>, Wenjun Wu, Zechao Li, Jing Liu<br>
+            Accepted by <strong>ACL 2024 (long paper)</strong>. <a href="https://aclanthology.org/2024.acl-long.332.pdf">Link to Paper</a>
+        </li>
+    </ul>
+    <h2>Graph Data Mining</h2>
+    <ul>
+        <li>
+            <strong>TagRec: Temporal-Aware Graph Contrastive Learning with Theoretical Augmentation for Sequential Recommendation</strong><br>
+            <strong>Tianhao Peng</strong>, Haitao Yuan, Yongqi Zhang, Yuchen Li, Peihong Dai, Qunbo Wang, Senzhang Wang, Wenjun Wu<br>
+            Accepted by <strong>TKDE (IEEE Transactions on Knowledge and Data Engineering)</strong>. <a href="https://ieeexplore.ieee.org/abstract/document/10872817">Link to Paper</a>
+        </li>
+        <li>
+            <strong>SOLA-GCL: Subgraph-oriented Learnable Augmentation Method for Graph Contrastive Learning</strong><br>
+            <strong>Tianhao Peng</strong>, Xuhong Li, Haitao Yuan, Yuchen Li, Haoyi Xiong<br>
+            Accepted by <strong>AAAI 2025</strong>. <a href="https://arxiv.org/pdf/2503.10100">Link to Paper</a>
+        </li>
+        <li>
+            <strong>GraphRARE: Reinforcement Learning Enhanced Graph Neural Network with Relative Entropy</strong><br>
+            <strong>Tianhao Peng</strong>, Wenjun Wu, Haitao Yuan, Zhifeng Bao, Zhao Pengrui, Xin Yu, Xuetao Lin, Yu Liang, Yanjun Pu<br>
+            Accepted by <strong>ICDE 2024</strong>. <a href="https://arxiv.org/pdf/2312.09708">Link to Paper</a>
+        </li>
+        <li>
+            <strong>CLGT: A Graph Transformer for Student Performance Prediction in Collaborative Learning</strong><br>
+            <strong>Tianhao Peng</strong>, Yu Liang, Wenjun Wu, Jian Ren, Zhao Pengrui, Yanjun Pu<br>
+            Accepted by <strong>AAAI 2023</strong>. <a href="https://arxiv.org/pdf/2308.02038">Link to Paper</a>
+        </li>
+    </ul>
+    <h2>Cross-Domain Applications</h2>
+    <ul>
+        <li>
+            <strong>ELAKT: Enhancing Locality for Attentive Knowledge Tracing</strong><br>
+            Yanjun Pu, Fang Liu, Rongye Shi, Haitao Yuan, Ruibo Chen, <strong>Tianhao Peng</strong>, Wenjun Wu<br>
+            Accepted by <strong>TOIS (ACM Transactions on Information System)</strong>. <a href="https://dl.acm.org/doi/pdf/10.1145/3652601">Link to Paper</a>
+        </li>
+        <li>
+            <strong>RankElectra: Semi-supervised Pre-training of Learning-to-Rank Electra for Web-scale Search</strong><br>
+            Yuchen Li, Haoyi Xiong, Yongqi Zhang, Jiang Bian, <strong>Tianhao Peng</strong>, Xuhong Li, Shuaiqiang Wang, Linghe Kong, Dawei Yin<br>
+            Accepted by <strong>KDD 2025</strong>. <a href="https://dl.acm.org/doi/10.1145/3690624.3709395">Link to Paper</a>
+        </li>
+        <li>
+            <strong>FetchEEG: a hybrid approach combining feature extraction and temporal-channel joint attention for EEG-based emotion classification</strong><br>
+            Yu Liang, Chenlong Zhang, Shan An, Zaitian Wang, Kaize Shi, <strong>Tianhao Peng</strong>, Yuqing Ma, Xiaoyang Xie, Jian He and Kun Zheng<br>
+            Accepted by <strong>Journal of Neural Engineering</strong>. <a href="https://www.google.com/search?client=safari&rls=en&q=FetchEEG%3A+a+hybrid+approach+combining+feature+extraction+and+temporal-channel+joint+attention+for+EEG-based+emotion+classification&ie=UTF-8&oe=UTF-8">Link to Paper</a>
+        </li>
+    </ul>
+</div>
 
 Research achievements
 ======
@@ -78,12 +134,12 @@ Services
 ======
 <ul>
     <li>Journal Reviewers of TKDE, TLT, Applied Intelligence, Pattern Analysis and Applications </li>
-    <li>Conference Reviewers of WWW, ACL, KDD</li>
+    <li>Conference Reviewers of WWW, ACL, KDD, NeurIPS</li>
 </ul>
 
 
 
-<!-- <div style="display:inline-block;width:600px;"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5oyrrafj8c8&amp;m=0&amp;c=007eff&amp;cr1=ff8a00&amp;sx=0" async="async"></script></div> -->
+<div style="display:inline-block;width:600px;"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5oyrrafj8c8&amp;m=0&amp;c=007eff&amp;cr1=ff8a00&amp;sx=0" async="async"></script></div>
 
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5nxh4k5bjl2&amp;m=0&amp;c=007eff&amp;cr1=ff0000&amp;f=arial&amp;l=0&amp;s=300" async="async"></script>
