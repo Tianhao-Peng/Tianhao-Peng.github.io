@@ -28,7 +28,7 @@ Currently, my research focuses on the following areas:
 News
 ======
 <ul>
-    <li><strong>July 2025:</strong> <strong>Co-first author</strong> on two new papers released on ArXiv: a comprehensive survey on latent reasoning and a study on LLM-based agents leveraging cross-domain experience.</li>
+    <li><strong>July 2025:</strong> <strong>Co-first author</strong> on <strong>two new papers</strong> released on ArXiv: a comprehensive survey on latent reasoning and a study on LLM-based agents leveraging cross-domain experience.</li>
     <li><strong>June 2025:</strong> Contributed to a paper on an empirical study of building effective agents, released on ArXiv.</li>
     <li><strong>January 2025:</strong> <strong>First author</strong> on a paper focusing on Contrastive Learning in Recommendation Systems, accepted by TKDE journal (IEEE Transactions on Knowledge and Data Engineering).</li>
     <li><strong>December 2024:</strong> <strong>First author</strong> on a paper exploring Graph Contrastive Learning, accepted by AAAI 2025.</li>
@@ -49,17 +49,17 @@ Publications
         <li>
             A Survey on Latent Reasoning<br>
             Rui-Jie Zhu*, <strong>Tianhao Peng*</strong>, Tianhao Cheng*, Xingwei Qu*, Jinfa Huang, Dawei Zhu, Hao Wang, Kaiwen Xue, Xuanliang Zhang, Yong Shan, Tianle Cai, Taylor Kergan, Assel Kembay, Andrew Smith, Chenghua Lin, Binh Nguyen, Yuqi Pan, Yuhong Chou, Zefan Cai, Zhenhe Wu, Yongchi Zhao, Tianyu Liu, Jian Yang, Wangchunshu Zhou, Chujie Zheng, Chongxuan Li, Yuyin Zhou, Zhoujun Li, Zhaoxiang Zhang, Jiaheng Liu, Ge Zhang, Wenhao Huang, Jason Eshraghian<br>
-            <a href="https://arxiv.org/pdf/2507.06203">Paper</a>
+            Released on ArXiv. <a href="https://arxiv.org/pdf/2507.06203">Paper</a>
         </li>
         <li>
             Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving<br>
             Xiangru Tang*, Tianrui Qin*, <strong>Tianhao Peng*</strong>, Ziyang Zhou, Daniel Shao, Tingting Du, Xinming Wei, Peng Xia, Fang Wu, He Zhu, Ge Zhang, Jiaheng Liu, Xingyao Wang, Sirui Hong, Chenglin Wu, Hao Cheng, Chi Wang, Wangchunshu Zhou<br>
-            <a href="https://arxiv.org/pdf/2507.06229">Paper</a>
+            Released on ArXiv. <a href="https://arxiv.org/pdf/2507.06229">Paper</a>
         </li>
         <li>
             OAgents: An Empirical Study of Building Effective Agents<br>
             He Zhu, Tianrui Qin, King Zhu, Heyuan Huang, Yeyi Guan, Jinxiang Xia, Yi Yao, Hanhao Li, Ningning Wang, Pai Liu, <strong>Tianhao Peng</strong>, Xin Gui, Xiaowan Li, Yuhui Liu, Yuchen Eleanor Jiang, Jun Wang, Changwang Zhang, Xiangru Tang, Ge Zhang, Jian Yang, Minghao Liu, Xitong Gao, Jiaheng Liu, Wangchunshu Zhou<br>
-            <a href="https://arxiv.org/pdf/2506.15741">Paper</a>
+            Released on ArXiv. <a href="https://arxiv.org/pdf/2506.15741">Paper</a>
         </li>
         <li>
             Soft Knowledge Prompt: Help External Knowledge Become a Better Teacher to Instruct LLM in Knowledge-based VQA<br>
