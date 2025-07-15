@@ -1,11 +1,3 @@
-<!--
- * @Author: Tianhao Peng pengtianhao@buaa.edu.cn
- * @Date: 2025-07-15 14:42:30
- * @LastEditors: Tianhao Peng pengtianhao@buaa.edu.cn
- * @LastEditTime: 2025-07-15 17:18:17
- * @FilePath: /Tianhao-Peng.github.io/_pages/about.md
- * @Description: None
--->
 ---
 permalink: /
 title: "About me"
