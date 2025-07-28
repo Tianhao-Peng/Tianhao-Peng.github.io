@@ -124,7 +124,7 @@ Services
 ======
 <ul>
     <li>Journal Reviewers of TKDE, TLT, Applied Intelligence, Pattern Analysis and Applications </li>
-    <li>Conference Reviewers of WWW, ACL, KDD, NeurIPS</li>
+    <li>Conference Reviewers of WWW, ACL, KDD, NeurIPS, AAAI</li>
 </ul>
 
 
