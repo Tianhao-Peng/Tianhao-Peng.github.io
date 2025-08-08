@@ -89,6 +89,12 @@ Publications
             <strong>Tianhao Peng</strong>, Yu Liang, Wenjun Wu, Jian Ren, Zhao Pengrui, Yanjun Pu<br>
             <strong>AAAI 2023</strong>
         </li>
+        <li>
+            Pre-trained Molecular Language Models with Random Functional Group Masking. <a href="https://arxiv.org/pdf/2411.01401v1">[Paper]</a><br>
+            <strong>Tianhao Peng</strong>, Yuchen Li, Xuhong Li, Jiang Bian, Zeke Xie, Ning Sui, Shahid Mumtaz, Yanwu Xu, Linghe Kong, Haoyi Xiong<br>
+            <strong>npj Artificial Intelligence 2025</strong>
+        </li>
+        
     </ul>
     <h3>Cross-Domain Applications</h3>
     <ul>
